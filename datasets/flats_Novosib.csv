@@ -1,0 +1,638 @@
+,author,author_type,link,city,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_m2,price_per_month,commissions,district,street,house_number,underground
+0,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981771/,Новосибирск,rent,flat,15,25,1,32.0,1250,40000,0,Заельцовский,Красный проспект,173/1,Заельцовская
+1,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982906/,Новосибирск,rent,flat,5,16,3,110.0,500,55000,0,Железнодорожный,Нарымская ,17/1,Красный Проспект
+2,Ривьера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295023231/,Новосибирск,rent,flat,4,5,1,31.0,838,26000,0,Калининский, Объединения,19/1,
+3,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294629137/,Новосибирск,rent,flat,3,17,2,54.0,833,45000,0,Октябрьский,Большевистская ,98,Речной вокзал
+4,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294842035/,Новосибирск,rent,flat,22,22,3,54.0,925,50000,0,Ленинский,площадь Райсовета,14,Площадь Маркса
+5,Ольга Матвеева,realtor,https://novosibirsk.cian.ru/rent/flat/291615410/,Новосибирск,rent,flat,1,9,1,20.0,750,15000,0,Советский, Русская,29,
+6,ID 109155867,homeowner,https://novosibirsk.cian.ru/rent/flat/294233854/,Новосибирск,rent,flat,4,11,2,50.0,500,25000,0,Октябрьский,Выборная ,105/2,Октябрьская
+7,ID 105610612,homeowner,https://novosibirsk.cian.ru/rent/flat/290359569/,Новосибирск,rent,flat,10,14,1,32.0,937,30000,0,Дзержинский, Николая Островского,195/1,Березовая Роща
+8,ID 109735345,homeowner,https://novosibirsk.cian.ru/rent/flat/294843388/,Новосибирск,rent,flat,1,2,2,50.0,200,10000,0,Первомайский,Бердское шоссе,32,Речной вокзал
+9,ID 37362256,homeowner,https://novosibirsk.cian.ru/rent/flat/294695701/,Новосибирск,rent,flat,2,5,2,46.0,739,34000,0,Кировский, Ватутина,55,Площадь Маркса
+10,Ольга Панина,realtor,https://novosibirsk.cian.ru/rent/flat/295001853/,Новосибирск,rent,flat,6,18,1,22.0,636,14000,0,Кировский, Виктора Уса,9,
+11,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294718837/,Новосибирск,rent,flat,2,4,1,31.5,698,22000,0,Советский, Терешковой,44,
+12,Денис Чернов,realtor,https://novosibirsk.cian.ru/rent/flat/294981269/,Новосибирск,rent,flat,3,12,1,40.0,450,18000,0,Кировский, Петухова,103/2,
+13,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295044050/,Новосибирск,rent,flat,5,5,1,31.0,774,24000,0,Центральный, Гоголя,17,
+14,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294594579/,Новосибирск,rent,flat,17,25,2,43.0,790,34000,0,Железнодорожный,Сибирская ,42,Площадь Гарина-Михайловского
+15,Ольга Панина,realtor,https://novosibirsk.cian.ru/rent/flat/295047790/,Новосибирск,rent,flat,6,19,1,42.0,595,25000,0,Дзержинский,проспект Дзержинского,34/2,Березовая Роща
+16,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295028671/,Новосибирск,rent,flat,4,9,3,60.0,500,30000,0,Ленинский,Широкая ,133/1,Площадь Маркса
+17,Квадротека,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292831408/,Новосибирск,rent,flat,6,16,1,25.0,600,15000,0,Кировский, Петухова,162,Площадь Маркса
+18,Эксклюзив,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295011946/,Новосибирск,rent,flat,17,27,1,45.0,777,35000,0,Дзержинский, Кошурникова,23,Золотая Нива
+19,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295044043/,Новосибирск,rent,flat,1,5,3,56.0,446,25000,0,Заельцовский,Кубовая ,102,
+20,Татьяна Быкова,realtor,https://novosibirsk.cian.ru/rent/flat/268704704/,Новосибирск,rent,flat,19,19,1,45.0,666,30000,0,Заельцовский, Дуси Ковальчук,238,Заельцовская
+21,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/287484684/,Новосибирск,rent,flat,21,25,1,44.0,1136,50000,0,Заельцовский,Кавалерийская ,23,Заельцовская
+22,Эксклюзив,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294562488/,Новосибирск,rent,flat,6,9,2,47.0,638,30000,0,Заельцовский,Дачная ,21/4,Заельцовская
+23,Александр Садовский,realtor,https://novosibirsk.cian.ru/rent/flat/294749053/,Новосибирск,rent,flat,3,3,1,36.0,416,15000,0,Ленинский,Большая ,622,Площадь Маркса
+24,Ольга Панина,realtor,https://novosibirsk.cian.ru/rent/flat/294943711/,Новосибирск,rent,flat,5,10,1,40.0,625,25000,0,Октябрьский, Федосеева,3,Золотая Нива
+25,Денис Чернов,realtor,https://novosibirsk.cian.ru/rent/flat/294806398/,Новосибирск,rent,flat,6,15,2,47.0,744,35000,0,Ленинский, Пархоменко,104,
+26,Татьяна Быкова,realtor,https://novosibirsk.cian.ru/rent/flat/287281031/,Новосибирск,rent,flat,12,25,1,32.3,866,28000,0,Ленинский, Немировича-Данченко,167/2,Студенческая
+27,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292216760/,Новосибирск,rent,flat,5,16,3,100.0,1450,145000,0,Центральный, Чаплыгина,93,
+28,Эксклюзив,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294939027/,Новосибирск,rent,flat,7,18,1,42.0,714,30000,0,Ленинский,,8А,Студенческая
+29,ID 94867922,unknown,https://novosibirsk.cian.ru/rent/flat/294649116/,Новосибирск,rent,flat,4,10,1,25.0,800,20000,0,Заельцовский,Кубовая ,113/5,
+30,Наследие,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294984544/,Новосибирск,rent,flat,8,12,3,61.0,573,35000,0,Кировский,Вертковская ,21,Площадь Маркса
+31,ID 58951264,unknown,https://novosibirsk.cian.ru/rent/flat/294990257/,Новосибирск,rent,flat,2,5,1,31.0,612,19000,0,Калининский, Богдана Хмельницкого,4,Заельцовская
+32,ID 24138469,homeowner,https://novosibirsk.cian.ru/rent/flat/294648403/,Новосибирск,rent,flat,2,9,1,42.0,666,28000,0,Октябрьский,Пролетарская ,271/2,
+33,ID 102789636,unknown,https://novosibirsk.cian.ru/rent/flat/294955523/,Новосибирск,rent,flat,5,21,1,36.0,722,26000,0,Октябрьский, Михаила Кулагина,31,Березовая Роща
+34,ID 58951264,unknown,https://novosibirsk.cian.ru/rent/flat/294847673/,Новосибирск,rent,flat,1,5,2,45.0,355,16000,0,Ленинский,Фасадная ,10,Площадь Маркса
+35,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294761179/,Новосибирск,rent,flat,2,7,3,78.0,320,25000,0,Центральный,Октябрьская ,40,
+36,ID 101140881,homeowner,https://novosibirsk.cian.ru/rent/flat/294896648/,Новосибирск,rent,flat,7,14,3,109.0,504,55000,0,Центральный, Крылова,48,Маршала Покрышкина
+37,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/207025933/,Новосибирск,rent,flat,6,10,2,55.0,654,36000,0,Заельцовский,Холодильная ,18/3,Гагаринская
+38,ID 52319353,realtor,https://novosibirsk.cian.ru/rent/flat/258129855/,Новосибирск,rent,flat,12,16,1,26.0,846,22000,0,Заельцовский, Дмитрия Донского,24/1,Заельцовская
+39,ID 72217490,homeowner,https://novosibirsk.cian.ru/rent/flat/294573437/,Новосибирск,rent,flat,7,9,3,65.0,676,44000,0,Советский, Иванова,28А,
+40,ID 109658438,homeowner,https://novosibirsk.cian.ru/rent/flat/294748033/,Новосибирск,rent,flat,2,25,3,54.5,1100,60000,0,Заельцовский, Дмитрия Донского,21/1,
+41,ID 47885316,homeowner,https://novosibirsk.cian.ru/rent/flat/294806369/,Новосибирск,rent,flat,2,5,3,60.0,550,33000,0,Октябрьский, Декабристов,72,Речной вокзал
+42,ID 109812444,homeowner,https://novosibirsk.cian.ru/rent/flat/294939132/,Новосибирск,rent,flat,1,5,2,48.0,520,25000,0,Ленинский,Киевская ,11,Площадь Маркса
+43,ID 75021214,homeowner,https://novosibirsk.cian.ru/rent/flat/294796827/,Новосибирск,rent,flat,20,23,2,55.0,1327,73000,0,Железнодорожный,Фабричная ,65/2,Площадь Гарина-Михайловского
+44,Созвездие Весов,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/291626824/,Новосибирск,rent,flat,2,10,1,37.0,486,18000,0,Советский, Лесосечная,3,Речной вокзал
+45,ID 62689188,realtor,https://novosibirsk.cian.ru/rent/flat/294869478/,Новосибирск,rent,flat,2,9,3,59.4,757,45000,0,Центральный, Максима Горького,104,Площадь Ленина
+46,ID 19671603,homeowner,https://novosibirsk.cian.ru/rent/flat/281588962/,Новосибирск,rent,flat,15,28,1,50.0,1200,60000,0,Октябрьский, Сибревкома,9,Октябрьская
+47,ID 18217423,homeowner,https://novosibirsk.cian.ru/rent/flat/294714829/,Новосибирск,rent,flat,3,4,1,32.0,625,20000,0,Кировский,Рубежная ,56,Площадь Маркса
+48,ID 100478357,homeowner,https://novosibirsk.cian.ru/rent/flat/294807832/,Новосибирск,rent,flat,14,27,1,30.0,1166,35000,0,Центральный, Крылова,34,Сибирская
+49,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294966973/,Новосибирск,rent,flat,5,17,1,39.0,846,33000,0,Ленинский, Ясный Берег,4,
+50,ID 104349571,homeowner,https://novosibirsk.cian.ru/rent/flat/294082216/,Новосибирск,rent,flat,3,9,1,20.0,850,17000,0,Кировский, Зорге,34,
+51,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294962290/,Новосибирск,rent,flat,11,26,1,40.0,875,35000,0,Ленинский, Ясный Берег,27,
+52,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981033/,Новосибирск,rent,flat,2,2,1,30.0,500,15000,0,Советский, Иванова,22,Студенческая
+53,ID 109657711,homeowner,https://novosibirsk.cian.ru/rent/flat/294747883/,Новосибирск,rent,flat,10,10,2,47.0,468,22000,0,Кировский, Комсомольская,4,Студенческая
+54,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295002780/,Новосибирск,rent,flat,5,5,1,30.0,500,15000,0,Советский,Часовая ,13,Студенческая
+55,МакроМир,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295034179/,Новосибирск,rent,flat,5,7,1,43.0,395,17000,0,Октябрьский,Выборная ,99/7,Речной вокзал
+56,ID 92061138,homeowner,https://novosibirsk.cian.ru/rent/flat/281498852/,Новосибирск,rent,flat,14,19,1,31.0,741,23000,0,Первомайский, Одоевского,1/2,
+57,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295044599/,Новосибирск,rent,flat,14,15,1,38.0,473,18000,0,Ленинский, Титова,253/3,Площадь Маркса
+58,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295011555/,Новосибирск,rent,flat,10,14,1,33.0,636,21000,0,Советский,Березовская ,11,Площадь Маркса
+59,ID 76556639,unknown,https://novosibirsk.cian.ru/rent/flat/294760341/,Новосибирск,rent,flat,15,27,1,40.0,675,27000,0,Заельцовский,Дачная ,5,Заельцовская
+60,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295049590/,Новосибирск,rent,flat,5,7,1,48.0,458,22000,0,Советский, Иванова,17,
+61,Бэст-Лэнд,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294984669/,Новосибирск,rent,flat,6,9,2,44.0,500,22000,0,Кировский, Станиславского,29/1,Площадь Маркса
+62,ФОРУМ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294797254/,Новосибирск,rent,flat,3,5,1,32.0,781,25000,0,Дзержинский,проспект Дзержинского,22,Березовая Роща
+63,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294994500/,Новосибирск,rent,flat,2,5,2,45.0,488,22000,0,Ленинский,Степная ,67/1,Площадь Маркса
+64,Алексей Шерин,realtor,https://novosibirsk.cian.ru/rent/flat/295026480/,Новосибирск,rent,flat,2,9,2,46.0,500,23000,0,Дзержинский, Есенина,12,Золотая Нива
+65,ID 92674625,unknown,https://novosibirsk.cian.ru/rent/flat/294893574/,Новосибирск,rent,flat,2,10,1,37.3,428,16000,0,Калининский, Краузе,5,
+66,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295028698/,Новосибирск,rent,flat,3,5,2,42.0,547,23000,0,Кировский, Петухова,112,Площадь Маркса
+67,РиэлтПрофи,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/278028081/,Новосибирск,rent,flat,5,17,1,38.0,605,23000,0,Советский, 2-я Миргородская,3,
+68,ID 48858675,realtor,https://novosibirsk.cian.ru/rent/flat/292979167/,Новосибирск,rent,flat,17,27,1,40.0,475,19000,0,Кировский, Оловозаводская,13,
+69,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295058212/,Новосибирск,rent,flat,7,9,2,43.0,558,24000,0,Заельцовский, Дуси Ковальчук,14,
+70,Антон Дятлов,realtor,https://novosibirsk.cian.ru/rent/flat/295014842/,Новосибирск,rent,flat,5,26,1,39.0,615,24000,0,Дзержинский, Гоголя,205/1,Березовая Роща
+71,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294485309/,Новосибирск,rent,flat,9,10,3,74.0,472,35000,0,Октябрьский, Грибоедова,32/2,
+72,VDOME,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295035720/,Новосибирск,rent,flat,5,5,2,41.0,609,25000,0,Калининский, Объединения,21,Заельцовская
+73,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295058531/,Новосибирск,rent,flat,7,14,1,41.0,609,25000,0,Калининский, Краузе,25,Заельцовская
+74,Центр недвижимости и права,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/278500204/,Новосибирск,rent,flat,6,9,1,32.0,781,25000,0,Заельцовский,Красный проспект,87,Гагаринская
+75,РЦН на Башне,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294980969/,Новосибирск,rent,flat,4,12,2,63.5,393,25000,0,Кировский, Николая Сотникова,12,Студенческая
+76,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982915/,Новосибирск,rent,flat,2,25,1,37.0,702,26000,0,Октябрьский,Гурьевская ,177/1,Золотая Нива
+77,ID 107827241,homeowner,https://novosibirsk.cian.ru/rent/flat/295042181/,Новосибирск,rent,flat,9,25,3,120.0,125,15000,0,Заельцовский, Галущака,15,Гагаринская
+78,Агент 54,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294980260/,Новосибирск,rent,flat,2,17,1,46.0,586,27000,0,Ленинский, Серафимовича,20,Площадь Маркса
+79,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295061936/,Новосибирск,rent,flat,25,25,1,42.0,642,27000,0,Октябрьский, Чехова,111,Октябрьская
+80,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294449555/,Новосибирск,rent,flat,10,19,1,25.0,1040,26000,0,Ленинский, Ясный Берег,12,Площадь Гарина-Михайловского
+81,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295000743/,Новосибирск,rent,flat,2,17,1,39.0,692,27000,0,Дзержинский, Гоголя,204/2,Березовая Роща
+82,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981766/,Новосибирск,rent,flat,8,9,1,36.4,741,27000,0,Заельцовский,Линейная ,45,Гагаринская
+83,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294761888/,Новосибирск,rent,flat,3,10,1,34.0,500,17000,0,Ленинский,Киевская ,3,Площадь Маркса
+84,МакроМир,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295034947/,Новосибирск,rent,flat,8,12,3,77.0,363,28000,0,Кировский, Петухова,99/2,Студенческая
+85,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295031216/,Новосибирск,rent,flat,2,5,2,42.0,690,29000,0,Ленинский,проспект Карла Маркса,27,Студенческая
+86,ID 44853183,homeowner,https://novosibirsk.cian.ru/rent/flat/220595819/,Новосибирск,rent,flat,7,10,1,34.0,470,16000,0,Ленинский, Ивана Севастьянова,5,
+87,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294984006/,Новосибирск,rent,flat,10,17,1,40.0,750,30000,0,Центральный, Державина,73,Маршала Покрышкина
+88,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294999107/,Новосибирск,rent,flat,5,5,3,60.0,500,30000,0,Железнодорожный,Сибирская ,31А,
+89,ID 109911486,homeowner,https://novosibirsk.cian.ru/rent/flat/295026782/,Новосибирск,rent,flat,9,18,1,42.0,380,16000,0,Кировский, Александра Чистякова,22/2,Площадь Маркса
+90,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294997974/,Новосибирск,rent,flat,3,5,2,48.0,625,30000,0,Ленинский, Титова,16,Площадь Маркса
+91,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295049413/,Новосибирск,rent,flat,4,5,2,46.0,652,30000,0,Кировский, Немировича-Данченко,161,
+92,ID 96418738,homeowner,https://novosibirsk.cian.ru/rent/flat/294690429/,Новосибирск,rent,flat,15,17,1,34.2,643,22000,0,Калининский, Фадеева,66,Заельцовская
+93,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981767/,Новосибирск,rent,flat,4,17,1,40.0,750,30000,0,Октябрьский, Кирова,46,Октябрьская
+94,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294980281/,Новосибирск,rent,flat,4,4,3,71.0,450,32000,0,Октябрьский, Грибоедова,117,Октябрьская
+95,РЦН на Башне,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/283630624/,Новосибирск,rent,flat,6,12,1,32.6,460,15000,0,Ленинский, Титова,276,
+96,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295036116/,Новосибирск,rent,flat,21,21,1,24.1,1244,30000,0,Октябрьский, Кошурникова,22/2,Березовая Роща
+97,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981760/,Новосибирск,rent,flat,14,19,1,45.0,733,33000,0,Заельцовский,Овражная ,11,Заельцовская
+98,ID 105656165,homeowner,https://novosibirsk.cian.ru/rent/flat/290527108/,Новосибирск,rent,flat,2,18,1,27.0,611,16500,0,Кировский, Виктора Уса,13,Площадь Маркса
+99,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982363/,Новосибирск,rent,flat,3,5,1,40.0,825,33000,0,Ленинский,проспект Карла Маркса,22,Студенческая
+100,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295030036/,Новосибирск,rent,flat,6,17,2,49.4,708,35000,0,Кировский, Ватутина,93,Студенческая
+101,Агентство Единый Центр Недвижимости,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295026019/,Новосибирск,rent,flat,6,10,1,31.0,419,13000,0,Заельцовский,Линейная ,47,Гагаринская
+102,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294999108/,Новосибирск,rent,flat,2,3,2,60.0,583,35000,0,Центральный, Мичурина,23А,Сибирская
+103,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295056370/,Новосибирск,rent,flat,5,5,2,50.0,700,35000,0,Дзержинский,проспект Дзержинского,79,
+104,ID 92312804,homeowner,https://novosibirsk.cian.ru/rent/flat/295040376/,Новосибирск,rent,flat,3,5,1,30.0,666,20000,0,Калининский, Богдана Хмельницкого,61,Заельцовская
+105,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295058205/,Новосибирск,rent,flat,4,5,2,43.8,799,35000,0,Ленинский, Блюхера,21,
+106,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295009630/,Новосибирск,rent,flat,17,25,1,45.0,844,38000,0,Заельцовский,Дачная ,42,
+107,ID 93391314,homeowner,https://novosibirsk.cian.ru/rent/flat/294869120/,Новосибирск,rent,flat,19,26,1,37.6,718,27000,0,Кировский, Сержанта Коротаева,9/1,Студенческая
+108,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294992333/,Новосибирск,rent,flat,11,18,1,34.0,1176,40000,0,Октябрьский,Большевистская ,35,Речной вокзал
+109,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986503/,Новосибирск,rent,flat,7,17,1,30.0,1333,40000,0,Советский, Сиреневая,31,Площадь Маркса
+110,ID 109506120,homeowner,https://novosibirsk.cian.ru/rent/flat/294619791/,Новосибирск,rent,flat,14,16,1,38.0,1236,47000,0,Советский, Николаева,18,
+111,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982902/,Новосибирск,rent,flat,2,4,2,43.0,1162,50000,0,Советский, Терешковой,36,Студенческая
+112,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295045434/,Новосибирск,rent,flat,3,4,1,19.0,789,15000,0,Ленинский,Большая ,676,
+113,ID 58405993,unknown,https://novosibirsk.cian.ru/rent/flat/294986038/,Новосибирск,rent,flat,1,17,1,20.0,750,15000,0,Первомайский, Заречная,33,
+114,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295028154/,Новосибирск,rent,flat,9,17,1,22.0,727,16000,0,Кировский, Александра Чистякова,22/2,
+115,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294963636/,Новосибирск,rent,flat,7,10,1,38.0,447,17000,0,Кировский, Виктора Шевелева,28,Студенческая
+116,ID 109679793,homeowner,https://novosibirsk.cian.ru/rent/flat/294778672/,Новосибирск,rent,flat,3,5,2,43.0,581,25000,0,Ленинский,Выставочная ,30,Площадь Маркса
+117,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294988977/,Новосибирск,rent,flat,8,10,1,30.0,600,18000,0,Ленинский, Титова,236/2,Площадь Маркса
+118,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982013/,Новосибирск,rent,flat,11,12,1,33.0,575,19000,0,Первомайский,Березовая ,11,
+119,Центр Недвижимости,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/276216634/,Новосибирск,rent,flat,5,5,2,44.0,431,19000,0,Советский, Энгельса,8,
+120,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295049404/,Новосибирск,rent,flat,15,18,2,41.2,461,19000,0,Октябрьский,Вилюйская ,13,
+121,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295028152/,Новосибирск,rent,flat,2,2,1,30.0,666,20000,0,Заельцовский,Новая ,9,
+122,Александр Садовский,realtor,https://novosibirsk.cian.ru/rent/flat/294281345/,Новосибирск,rent,flat,4,4,2,44.0,500,22000,0,Заельцовский,Кубовая ,97,Заельцовская
+123,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294980282/,Новосибирск,rent,flat,10,16,1,28.0,785,22000,0,Ленинский,Стартовая ,1,
+124,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295026673/,Новосибирск,rent,flat,6,25,1,37.3,616,23000,0,Калининский, Тюленина,28,
+125,ID 106310164,homeowner,https://novosibirsk.cian.ru/rent/flat/294999114/,Новосибирск,rent,flat,17,18,1,35.0,485,17000,0,Ленинский, Забалуева,102,Площадь Маркса
+126,Квадротека,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295070918/,Новосибирск,rent,flat,2,9,1,34.0,676,23000,0,Кировский, Сибиряков-Гвардейцев,44/6,Площадь Маркса
+127,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294857425/,Новосибирск,rent,flat,7,10,1,37.0,513,19000,0,Калининский, Гребенщикова,17,Заельцовская
+128,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982016/,Новосибирск,rent,flat,3,5,1,28.7,836,24000,0,Кировский, Петухова,140,
+129,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982025/,Новосибирск,rent,flat,5,9,1,35.0,685,24000,0,Советский, Полевая,18,
+130,ID 97750477,unknown,https://novosibirsk.cian.ru/rent/flat/295030068/,Новосибирск,rent,flat,4,10,1,38.0,394,15000,0,Калининский, Родники,3/1,Заельцовская
+131,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982903/,Новосибирск,rent,flat,3,3,2,40.0,625,25000,0,Советский, Молодости,6,Площадь Маркса
+132,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295017913/,Новосибирск,rent,flat,3,9,2,42.0,595,25000,0,Кировский, Зорге,281,
+133,ID 71043973,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294960598/,Новосибирск,rent,flat,3,5,4,62.0,233,14500,0,Калининский, Макаренко,10,
+134,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295024034/,Новосибирск,rent,flat,7,13,1,32.5,769,25000,0,Калининский, Мясниковой,30,
+135,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295028701/,Новосибирск,rent,flat,3,9,2,51.0,490,25000,0,Кировский,Тульская ,90,Студенческая
+136,ID 109893400,homeowner,https://novosibirsk.cian.ru/rent/flat/295008254/,Новосибирск,rent,flat,3,5,3,58.0,431,25000,0,Дзержинский, Полякова,1А,Березовая Роща
+137,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295059549/,Новосибирск,rent,flat,8,14,1,24.0,1041,25000,0,Центральный, Державина,92/1,
+138,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294992164/,Новосибирск,rent,flat,10,10,2,63.0,396,25000,0,Октябрьский, Плющихинская,10,
+139,Антон Дятлов,realtor,https://novosibirsk.cian.ru/rent/flat/294949605/,Новосибирск,rent,flat,18,20,1,33.0,515,17000,0,Кировский, Петухова,97/2,Студенческая
+140,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295007557/,Новосибирск,rent,flat,3,9,2,44.0,568,25000,0,Первомайский, Шмидта,12,Золотая Нива
+141,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294980885/,Новосибирск,rent,flat,8,10,2,53.2,469,25000,0,Калининский, Родники,10,
+142,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294893136/,Новосибирск,rent,flat,5,9,2,45.0,733,33000,0,Железнодорожный,Железнодорожная ,8/1,Площадь Гарина-Михайловского
+143,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981773/,Новосибирск,rent,flat,7,25,1,28.4,880,25000,0,Октябрьский,Гурьевская ,177/1,Золотая Нива
+144,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981768/,Новосибирск,rent,flat,16,17,1,46.4,538,25000,0,Ленинский, Ивана Севастьянова,9,Площадь Маркса
+145,АктивНедвижимость,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293293163/,Новосибирск,rent,flat,3,5,1,35.0,457,16000,0,Дзержинский, Гоголя,235/1,Березовая Роща
+146,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982027/,Новосибирск,rent,flat,2,5,2,44.0,568,25000,0,Ленинский, Пермитина,6,
+147,Wall Street,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294991186/,Новосибирск,rent,flat,17,18,1,51.0,490,25000,0,Ленинский, Ивана Севастьянова,10,
+148,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294959992/,Новосибирск,rent,flat,3,6,1,32.7,489,16000,0,Первомайский, Вересаева,1/1,Речной вокзал
+149,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986411/,Новосибирск,rent,flat,4,5,2,47.0,531,25000,0,Дзержинский, Адриена Лежена,28/1,
+150,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982919/,Новосибирск,rent,flat,3,5,2,44.0,590,26000,0,Ленинский, Блюхера,16,
+151,Наталья Грибова,realtor,https://novosibirsk.cian.ru/rent/flat/286916666/,Новосибирск,rent,flat,4,4,2,38.0,394,15000,0,Октябрьский,1-я Родниковая ,60,Речной вокзал
+152,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294992327/,Новосибирск,rent,flat,3,21,1,49.0,530,26000,0,Октябрьский, Кирова,236,
+153,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982026/,Новосибирск,rent,flat,3,20,2,45.4,572,26000,0,Октябрьский, Кирова,236,
+154,Любовь Никитина,realtor,https://novosibirsk.cian.ru/rent/flat/280319744/,Новосибирск,rent,flat,7,24,1,40.0,400,16000,0,Кировский, Бородина,56,
+155,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295017918/,Новосибирск,rent,flat,3,5,2,45.0,600,27000,0,Кировский, Петухова,48,
+156,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295026671/,Новосибирск,rent,flat,3,17,1,39.0,717,28000,0,Заельцовский, Залесского,5,
+157,ID 100762096,homeowner,https://novosibirsk.cian.ru/rent/flat/295027289/,Новосибирск,rent,flat,3,9,2,46.0,434,20000,0,Дзержинский, Дениса Давыдова,1/1,
+158,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294999109/,Новосибирск,rent,flat,2,2,3,68.0,411,28000,0,Ленинский, Забалуева,48,Площадь Маркса
+159,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295032820/,Новосибирск,rent,flat,5,5,3,58.0,500,29000,0,Кировский, Громова,16,
+160,Опора-Групп,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294804029/,Новосибирск,rent,flat,1,5,2,44.0,568,25000,0,Заельцовский, Кропоткина,96,Гагаринская
+161,RedStreets,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295052317/,Новосибирск,rent,flat,7,18,1,35.2,568,20000,0,Ленинский, Связистов,13/2,Площадь Маркса
+162,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986402/,Новосибирск,rent,flat,10,17,1,41.1,729,30000,0,Центральный, Державина,73,
+163,ID 1650808,homeowner,https://novosibirsk.cian.ru/rent/flat/294648676/,Новосибирск,rent,flat,2,3,1,35.0,711,24903,0,Советский, Русская,42В,
+164,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982015/,Новосибирск,rent,flat,3,11,2,64.0,468,30000,0,Октябрьский,Ленинградская ,101/2,
+165,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982916/,Новосибирск,rent,flat,6,7,2,76.2,393,30000,0,Кировский, Обогатительная,4,Студенческая
+166,ID 75633854,homeowner,https://novosibirsk.cian.ru/rent/flat/295041545/,Новосибирск,rent,flat,16,17,1,42.0,476,20000,0,Калининский, Краузе,19/1,Заельцовская
+167,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982320/,Новосибирск,rent,flat,6,17,2,42.0,714,30000,0,Калининский, Краузе,17,Заельцовская
+168,ID 75021214,homeowner,https://novosibirsk.cian.ru/rent/flat/294057568/,Новосибирск,rent,flat,6,25,1,30.0,1000,30000,0,Заельцовский,Светлановская ,52/2,Заельцовская
+169,ID 109688997,homeowner,https://novosibirsk.cian.ru/rent/flat/295019627/,Новосибирск,rent,flat,9,20,1,43.0,767,33000,0,Ленинский,Стартовая ,1,Студенческая
+170,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982029/,Новосибирск,rent,flat,8,22,1,40.0,825,33000,0,Октябрьский, Декабристов,115,
+171,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294537306/,Новосибирск,rent,flat,9,9,2,56.0,446,25000,0,Советский, Арбузова,8,
+172,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294980884/,Новосибирск,rent,flat,8,11,2,60.0,566,34000,0,Ленинский,,41,
+173,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295049412/,Новосибирск,rent,flat,2,13,2,58.0,586,34000,0,Октябрьский,Зыряновская ,55,
+174,Максим Чаредеев,realtor,https://novosibirsk.cian.ru/rent/flat/295026698/,Новосибирск,rent,flat,4,9,1,35.0,457,16000,0,Ленинский,Троллейная ,154,
+175,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295032458/,Новосибирск,rent,flat,3,5,2,41.3,847,35000,0,Ленинский,площадь Карла Маркса,3,Студенческая
+176,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295032817/,Новосибирск,rent,flat,6,14,1,47.0,744,35000,0,Ленинский, Пархоменко,104,
+177,ID 84907381,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294894453/,Новосибирск,rent,flat,3,9,2,45.0,533,24000,0,Октябрьский, Бориса Богаткова,203,Золотая Нива
+178,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295040423/,Новосибирск,rent,flat,7,19,2,42.0,833,35000,0,Октябрьский, Михаила Кулагина,35,
+179,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295037045/,Новосибирск,rent,flat,8,10,3,67.0,522,35000,0,Калининский, Свечникова,2,Заельцовская
+180,ID 109926568,homeowner,https://novosibirsk.cian.ru/rent/flat/295043345/,Новосибирск,rent,flat,11,19,1,34.0,676,23000,0,Ленинский, Ивана Севастьянова,9,
+181,ID 64758016,homeowner,https://novosibirsk.cian.ru/rent/flat/282232553/,Новосибирск,rent,flat,4,4,2,40.0,875,35000,0,Советский,бульвар Молодежи,4,
+182,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986399/,Новосибирск,rent,flat,4,18,1,46.0,782,36000,0,Центральный, Орджоникидзе,30,
+183,Дом Профи,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294392613/,Новосибирск,rent,flat,5,16,2,50.0,600,30000,0,Заельцовский,Красный проспект,165/1,Заельцовская
+184,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294988843/,Новосибирск,rent,flat,21,25,1,40.8,955,39000,0,Заельцовский,Кавалерийская ,3/1,
+185,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294984314/,Новосибирск,rent,flat,21,25,1,41.0,951,39000,0,Заельцовский,Кавалерийская ,3/1,
+186,Светлана Иванченко,realtor,https://novosibirsk.cian.ru/rent/flat/294988342/,Новосибирск,rent,flat,4,5,2,44.0,477,21000,0,Ленинский,Тихвинская ,4,Площадь Маркса
+187,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294962326/,Новосибирск,rent,flat,6,22,2,55.0,727,40000,0,Октябрьский, Восход,20/1,
+188,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295017915/,Новосибирск,rent,flat,11,19,2,72.0,555,40000,0,Заельцовский, Галущака,4,
+189,ID 56920703,unknown,https://novosibirsk.cian.ru/rent/flat/294610367/,Новосибирск,rent,flat,6,9,1,45.0,600,27000,0,Ленинский, Титова,10/1,Площадь Маркса
+190,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295017916/,Новосибирск,rent,flat,3,10,1,46.0,869,40000,0,Заельцовский, Кропоткина,116/1,
+191,ID 108843528,homeowner,https://novosibirsk.cian.ru/rent/flat/294897683/,Новосибирск,rent,flat,2,9,2,44.0,454,20000,0,Кировский, Саввы Кожевникова,5,Студенческая
+192,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982028/,Новосибирск,rent,flat,7,10,3,75.0,533,40000,0,Кировский, Петухова,104А,
+193,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295028699/,Новосибирск,rent,flat,8,9,4,80.0,500,40000,0,Кировский,Тульская ,90,Площадь Маркса
+194,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986502/,Новосибирск,rent,flat,23,23,1,42.0,952,40000,0,Центральный, Некрасова,41,
+195,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294973493/,Новосибирск,rent,flat,10,26,1,40.0,1000,40000,0,Кировский, Немировича-Данченко,156,
+196,ID 108294589,homeowner,https://novosibirsk.cian.ru/rent/flat/293211167/,Новосибирск,rent,flat,3,7,3,120.0,500,60000,0,Советский, Лесосечная,14,Октябрьская
+197,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295012698/,Новосибирск,rent,flat,4,13,1,33.0,1363,45000,0,Центральный,Трудовая ,25/1,Площадь Ленина
+198,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986401/,Новосибирск,rent,flat,7,10,2,54.4,827,45000,0,Октябрьский,Большевистская ,126,
+199,ID 57071525,homeowner,https://novosibirsk.cian.ru/rent/flat/239306305/,Новосибирск,rent,flat,13,18,1,40.0,800,32000,0,Дзержинский, Адриена Лежена,17,Золотая Нива
+200,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295049405/,Новосибирск,rent,flat,6,24,1,40.0,1125,45000,0,Октябрьский, Кирова,11,
+201,Красный Проспект Недвижимость - Дополнительный Офис,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294936458/,Новосибирск,rent,flat,6,25,2,70.0,642,45000,0,Октябрьский, Лескова,21,Октябрьская
+202,Ольга Васильевна,realtor,https://novosibirsk.cian.ru/rent/flat/294556491/,Новосибирск,rent,flat,6,9,2,60.0,333,20000,0,Октябрьский,Выборная ,137,
+203,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986497/,Новосибирск,rent,flat,7,10,2,54.0,833,45000,0,Октябрьский,Большевистская ,126,Речной вокзал
+204,ID 21233321,homeowner,https://novosibirsk.cian.ru/rent/flat/293737565/,Новосибирск,rent,flat,19,25,1,37.0,486,18000,0,Кировский, Бородина,56,
+205,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982017/,Новосибирск,rent,flat,13,16,2,58.0,948,55000,0,Дзержинский, Авиастроителей,17,
+206,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295049407/,Новосибирск,rent,flat,25,25,2,46.0,1304,60000,0,Заельцовский,Красный проспект,167/4,
+207,ID 71057018,homeowner,https://novosibirsk.cian.ru/rent/flat/292383227/,Новосибирск,rent,flat,13,16,1,15.0,1466,22000,0,Октябрьский,Ипподромская ,15,Октябрьская
+208,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295047538/,Новосибирск,rent,flat,1,9,2,48.0,458,22000,0,Советский, Демакова,8,
+209,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295028700/,Новосибирск,rent,flat,1,5,3,40.0,675,27000,0,Железнодорожный, Ленина,55,Площадь Гарина-Михайловского
+210,ID 57252914,homeowner,https://novosibirsk.cian.ru/rent/flat/283921352/,Новосибирск,rent,flat,11,17,2,50.0,520,26000,0,Советский,Приморская ,24,
+211,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294981336/,Новосибирск,rent,flat,1,1,2,42.0,761,32000,0,Ленинский, Попова,68,
+212,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295040964/,Новосибирск,rent,flat,1,9,3,63.0,396,25000,0,Калининский, Фадеева,24,
+213,ID 104851596,homeowner,https://novosibirsk.cian.ru/rent/flat/295001567/,Новосибирск,rent,flat,6,19,1,32.5,923,30000,0,Ленинский, Ясный Берег,9,Красный Проспект
+214,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295032823/,Новосибирск,rent,flat,1,5,3,60.0,416,25000,0,Заельцовский,Кубовая ,102,
+215,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295040944/,Новосибирск,rent,flat,1,4,3,56.0,446,25000,0,Заельцовский,Дачная ,33,
+216,ID 109831305,homeowner,https://novosibirsk.cian.ru/rent/flat/294950720/,Новосибирск,rent,flat,7,10,1,32.0,781,25000,0,Заельцовский, Жуковского,106,Заельцовская
+217,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294986500/,Новосибирск,rent,flat,1,9,1,40.0,625,25000,0,Калининский, Свечникова,1,
+218,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294999451/,Новосибирск,rent,flat,1,2,3,68.0,411,28000,0,Ленинский, Забалуева,48,
+219,Валентина Ситникова,realtor,https://novosibirsk.cian.ru/rent/flat/294390829/,Новосибирск,rent,flat,2,3,1,37.0,675,25000,0,Советский, Русская,42Б,
+220,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294964751/,Новосибирск,rent,flat,5,17,1,39.0,1102,43000,0,Советский, Николаева,18,
+221,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294956173/,Новосибирск,rent,flat,5,5,1,32.0,750,24000,0,Ленинский, Блюхера,51,
+222,ID 109757788,homeowner,https://novosibirsk.cian.ru/rent/flat/294869510/,Новосибирск,rent,flat,2,5,1,29.1,687,20000,0,Первомайский,Газонная ,1А,Речной вокзал
+223,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294959731/,Новосибирск,rent,flat,4,25,2,37.3,777,29000,0,Кировский,Беловежская ,4/1,
+224,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294959733/,Новосибирск,rent,flat,7,14,2,60.0,666,40000,0,Дзержинский, Кошурникова,53/2,
+225,Наталья Голубинская,realtor,https://novosibirsk.cian.ru/rent/flat/295069068/,Новосибирск,rent,flat,2,5,1,30.0,566,17000,0,Кировский, Палласа,8,Площадь Маркса
+226,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294963544/,Новосибирск,rent,flat,4,5,3,62.0,645,40000,0,Дзержинский, Адриена Лежена,28,
+227,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294959737/,Новосибирск,rent,flat,1,9,2,43.0,697,30000,0,Дзержинский, Есенина,25,Золотая Нива
+228,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294808985/,Новосибирск,rent,flat,9,10,2,51.0,470,24000,0,Октябрьский, В. Высоцкого,40,
+229,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295044597/,Новосибирск,rent,flat,8,13,4,123.0,406,50000,0,Октябрьский,Зыряновская ,55,Речной вокзал
+230,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294982030/,Новосибирск,rent,flat,4,5,3,90.0,555,50000,0,Ленинский, Котовского,21,
+231,ID 56088333,unknown,https://novosibirsk.cian.ru/rent/flat/295070797/,Новосибирск,rent,flat,3,5,1,31.0,709,22000,0,Ленинский, Пермитина,8,Площадь Маркса
+232,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294992151/,Новосибирск,rent,flat,5,7,3,112.0,562,63000,0,Заельцовский,Красный проспект,159,
+233,ЕВРОДОМ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294160964/,Новосибирск,rent,flat,2,5,2,48.0,666,32000,0,Дзержинский, Гоголя,188,
+234,Елена Ксенженко,realtor,https://novosibirsk.cian.ru/rent/flat/294798716/,Новосибирск,rent,flat,2,9,1,33.0,939,31000,0,Железнодорожный,Фабричная ,65/3,Площадь Гарина-Михайловского
+235,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294533562/,Новосибирск,rent,flat,7,9,2,45.0,666,30000,0,Калининский, Богдана Хмельницкого,17,
+236,Новодом,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293147468/,Новосибирск,rent,flat,5,9,2,43.0,697,30000,0,Заельцовский, Дуси Ковальчук,24,Заельцовская
+237,ID 71043348,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294749023/,Новосибирск,rent,flat,6,10,1,37.0,567,21000,0,Советский, Русская,38,
+238,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/290760502/,Новосибирск,rent,flat,4,5,2,44.0,500,22000,0,Железнодорожный, Дмитрия Шамшурина,22,Площадь Гарина-Михайловского
+239,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294856865/,Новосибирск,rent,flat,5,5,2,43.0,488,21000,0,Дзержинский,Трикотажная ,60/3,
+240,ID 109859247,homeowner,https://novosibirsk.cian.ru/rent/flat/294970827/,Новосибирск,rent,flat,7,9,2,52.0,480,25000,0,Калининский, Кочубея,3,Заельцовская
+241,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294688387/,Новосибирск,rent,flat,8,10,2,43.0,627,27000,0,Ленинский,Спортивная ,11/1,Площадь Маркса
+242,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294484862/,Новосибирск,rent,flat,3,5,1,30.0,1100,33000,0,Центральный, Гоголя,1,Красный Проспект
+243,ID 13276542,homeowner,https://novosibirsk.cian.ru/rent/flat/294964334/,Новосибирск,rent,flat,1,1,2,42.0,761,32000,0,Ленинский,1-я Чулымская ,117,Студенческая
+244,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294723336/,Новосибирск,rent,flat,8,26,2,50.0,1000,50000,0,Октябрьский, Шевченко,19/1,Октябрьская
+245,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294550953/,Новосибирск,rent,flat,1,24,1,32.0,1250,40000,0,Калининский, 25 лет Октября,14/3,Березовая Роща
+246,ID 50039649,homeowner,https://novosibirsk.cian.ru/rent/flat/295035447/,Новосибирск,rent,flat,4,7,1,39.0,769,30000,0,Октябрьский,Большевистская ,94,Речной вокзал
+247,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292435101/,Новосибирск,rent,flat,5,10,1,33.5,895,30000,0,Железнодорожный, Революции,6,
+248,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294657492/,Новосибирск,rent,flat,8,24,1,38.0,736,28000,0,Дзержинский, Бориса Богаткова,260/1,Золотая Нива
+249,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/290955724/,Новосибирск,rent,flat,4,8,1,52.0,442,23000,0,Советский, Арбузова,12,
+250,Агент 54,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294728076/,Новосибирск,rent,flat,3,18,1,36.0,805,29000,0,Октябрьский, Адриена Лежена,38,Золотая Нива
+251,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294804252/,Новосибирск,rent,flat,8,17,1,48.0,729,35000,0,Дзержинский, Красина,56,Березовая Роща
+252,ID 65590726,homeowner,https://novosibirsk.cian.ru/rent/flat/294963494/,Новосибирск,rent,flat,13,18,2,39.1,716,28000,0,Ленинский, Забалуева,90,
+253,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294798924/,Новосибирск,rent,flat,10,17,2,69.0,362,25000,0,Октябрьский, Лескова,31,
+254,VERAESTATE,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294735555/,Новосибирск,rent,flat,10,17,2,61.2,424,26000,0,Кировский, Петухова,160,Площадь Маркса
+255,Недвижимость Новосибирска-НН,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294750025/,Новосибирск,rent,flat,6,9,1,29.0,1206,35000,0,Железнодорожный, Челюскинцев,15,Площадь Гарина-Михайловского
+256,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294391929/,Новосибирск,rent,flat,11,17,2,62.0,806,50000,0,Центральный, Некрасова,63,Маршала Покрышкина
+257,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293735844/,Новосибирск,rent,flat,3,18,1,30.0,1166,35000,0,Центральный, Семьи Шамшиных,90/5,Маршала Покрышкина
+258,ID 52211352,homeowner,https://novosibirsk.cian.ru/rent/flat/294089390/,Новосибирск,rent,flat,7,25,2,42.0,1422,59750,0,Заельцовский,Сухарная ,96/3,Заельцовская
+259,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294015953/,Новосибирск,rent,flat,8,17,2,78.0,448,35000,0,Советский, Сиреневая,31,Площадь Маркса
+260,СФЕРА 54,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293968003/,Новосибирск,rent,flat,3,9,1,40.0,650,26000,0,Заельцовский,Владимировская ,28,
+261,ID 95572462,homeowner,https://novosibirsk.cian.ru/rent/flat/294980121/,Новосибирск,rent,flat,8,10,1,37.0,675,25000,0,Заельцовский,Холодильная ,17,Гагаринская
+262,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294448145/,Новосибирск,rent,flat,1,5,2,45.0,555,25000,0,Кировский,Вертковская ,12/2,Площадь Маркса
+263,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294943090/,Новосибирск,rent,flat,8,9,1,40.3,620,25000,0,Дзержинский, Гоголя,204/1,
+264,Владимир Алексеев,realtor,https://novosibirsk.cian.ru/rent/flat/294904977/,Новосибирск,rent,flat,8,18,2,39.0,589,23000,0,Кировский, Ватутина,93/2,Студенческая
+265,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294389838/,Новосибирск,rent,flat,5,5,2,53.0,566,30000,0,Октябрьский,Нижегородская ,28,Октябрьская
+266,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294315530/,Новосибирск,rent,flat,9,17,2,65.0,538,35000,0,Заельцовский, Дуси Ковальчук,260/2,Заельцовская
+267,ID 102241453,homeowner,https://novosibirsk.cian.ru/rent/flat/295055961/,Новосибирск,rent,flat,4,10,1,33.5,746,25000,0,Октябрьский,Выборная ,91/1,
+268,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294475273/,Новосибирск,rent,flat,10,18,1,35.1,854,30000,0,Дзержинский, Фрунзе,252/2,
+269,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294441462/,Новосибирск,rent,flat,6,18,1,43.0,697,30000,0,Дзержинский, Кошурникова,29/5,
+270,ID 55839141,realtor,https://novosibirsk.cian.ru/rent/flat/294814328/,Новосибирск,rent,flat,9,17,2,42.0,500,21000,0,Первомайский, Твардовского,22/6,Речной вокзал
+271,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294027854/,Новосибирск,rent,flat,8,12,2,51.0,588,30000,0,Октябрьский,Гурьевская ,42,
+272,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294882186/,Новосибирск,rent,flat,2,16,1,42.7,702,30000,0,Октябрьский,2-я Обская ,154,
+273,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294686841/,Новосибирск,rent,flat,5,8,2,50.0,2400,120000,0,Заельцовский,Дачное шоссе,22/3,
+274,Ирина Шарипова,realtor,https://novosibirsk.cian.ru/rent/flat/292689253/,Новосибирск,rent,flat,3,15,1,36.6,1065,39000,0,Октябрьский, Владимира Заровного,40,Речной вокзал
+275,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294565743/,Новосибирск,rent,flat,2,24,1,28.0,1071,30000,0,Кировский, Немировича-Данченко,144/1,Студенческая
+276,ID 69711647,homeowner,https://novosibirsk.cian.ru/rent/flat/294829554/,Новосибирск,rent,flat,5,10,2,70.0,471,33000,0,Ленинский,,72,Студенческая
+277,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294731268/,Новосибирск,rent,flat,7,17,2,60.0,583,35000,0,Дзержинский, Адриена Лежена,9/1,
+278,ID 49399257,homeowner,https://novosibirsk.cian.ru/rent/flat/295027563/,Новосибирск,rent,flat,3,10,3,60.0,466,28000,0,Дзержинский, Есенина,8/1,Золотая Нива
+279,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294686318/,Новосибирск,rent,flat,6,10,1,42.0,476,20000,0,Октябрьский, Виталия Потылицына,1,Золотая Нива
+280,Сибирский Партнер,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294272002/,Новосибирск,rent,flat,8,21,2,124.0,1209,150000,0,Центральный,Коммунистическая ,50,Площадь Ленина
+281,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/273149958/,Новосибирск,rent,flat,17,19,2,70.0,714,50000,0,Дзержинский,проспект Дзержинского,1/1,Березовая Роща
+282,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294059882/,Новосибирск,rent,flat,12,12,2,47.0,531,25000,0,Ленинский, Юности,1,Площадь Гарина-Михайловского
+283,Статус,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294146508/,Новосибирск,rent,flat,9,26,1,44.3,1015,45000,0,Центральный, Крылова,63,Маршала Покрышкина
+284,ID 109799634,homeowner,https://novosibirsk.cian.ru/rent/flat/294918559/,Новосибирск,rent,flat,21,27,2,62.7,462,29000,0,Октябрьский,Военная ,9/2,Октябрьская
+285,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294715257/,Новосибирск,rent,flat,2,25,1,35.0,857,30000,0,Октябрьский,Гурьевская ,177/1,
+286,АгентPro,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294653129/,Новосибирск,rent,flat,14,18,3,110.0,636,70000,0,Октябрьский,Военная ,9/1,Октябрьская
+287,СФЕРА 54,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294891068/,Новосибирск,rent,flat,5,5,1,32.0,687,22000,0,Кировский,Новогодняя ,20/1,
+288,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294732154/,Новосибирск,rent,flat,9,25,1,30.0,866,26000,0,Заельцовский,Светлановская ,52/2,Заельцовская
+289,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/286283653/,Новосибирск,rent,flat,3,5,3,98.0,1020,100000,0,Заельцовский,Дачное шоссе,2,
+290,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294663112/,Новосибирск,rent,flat,5,5,2,41.0,731,30000,0,Ленинский, Костычева,2,Площадь Маркса
+291,ОЛИМП,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293795380/,Новосибирск,rent,flat,4,9,1,38.0,605,23000,0,Советский, Иванова,30,
+292,Домой,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294823808/,Новосибирск,rent,flat,15,17,2,57.4,609,35000,0,Дзержинский, Николая Островского,195,Березовая Роща
+293,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294732314/,Новосибирск,rent,flat,10,10,2,42.6,586,25000,0,Кировский, Герцена,10,
+294,ID 109945003,homeowner,https://novosibirsk.cian.ru/rent/flat/295070307/,Новосибирск,rent,flat,2,9,1,34.3,699,24000,0,Калининский, 25 лет Октября,16/2,Березовая Роща
+295,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294288285/,Новосибирск,rent,flat,4,7,2,72.0,416,30000,0,Кировский, Обогатительная,4,Студенческая
+296,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294212123/,Новосибирск,rent,flat,5,9,2,53.0,566,30000,0,Ленинский,Широкая ,23,Площадь Маркса
+297,Иван Новиков,realtor,https://novosibirsk.cian.ru/rent/flat/295069382/,Новосибирск,rent,flat,9,9,2,43.0,511,22000,0,Кировский, Зорге,13,Площадь Маркса
+298,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293722390/,Новосибирск,rent,flat,2,20,2,30.0,1166,35000,0,Железнодорожный,Фабричная ,65/3,
+299,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294533566/,Новосибирск,rent,flat,4,9,1,37.0,1729,64000,0,Заельцовский,Красный проспект,222/2,
+300,ID 109879308,homeowner,https://novosibirsk.cian.ru/rent/flat/294989037/,Новосибирск,rent,flat,5,9,3,61.0,557,34000,0,Октябрьский,Ленинградская ,149,Речной вокзал
+301,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/291939034/,Новосибирск,rent,flat,22,26,2,73.0,684,50000,0,Заельцовский, Залесского,2/4,Заельцовская
+302,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294724196/,Новосибирск,rent,flat,24,25,2,60.0,900,54000,0,Октябрьский,Большевистская ,32/1,Речной вокзал
+303,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294797233/,Новосибирск,rent,flat,13,14,1,39.0,692,27000,0,Первомайский, Героев Революции,31,
+304,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293636514/,Новосибирск,rent,flat,22,25,2,60.0,1000,60000,0,Октябрьский,Обская ,46,Речной вокзал
+305,Андрей Садчиков,realtor,https://novosibirsk.cian.ru/rent/flat/294712033/,Новосибирск,rent,flat,14,25,1,32.0,625,20000,0,Кировский, Петухова,162,Речной вокзал
+306,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294727147/,Новосибирск,rent,flat,13,20,2,46.0,869,40000,0,Октябрьский, Кирова,236,Речной вокзал
+307,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294728066/,Новосибирск,rent,flat,13,17,1,40.0,1000,40000,0,Октябрьский, Шевченко,15,Октябрьская
+308,ID 39482381,realtor,https://novosibirsk.cian.ru/rent/flat/294980134/,Новосибирск,rent,flat,5,5,1,39.0,589,23000,0,Дзержинский,Театральная ,3,Березовая Роща
+309,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293969636/,Новосибирск,rent,flat,2,4,1,32.8,1524,50000,0,Советский,проезд Цветной,29,
+310,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294907047/,Новосибирск,rent,flat,21,24,2,70.0,428,30000,0,Заельцовский,Сухарная ,101/1,Площадь Гарина-Михайловского
+311,Андрей Каравайцев,realtor,https://novosibirsk.cian.ru/rent/flat/295070984/,Новосибирск,rent,flat,5,5,1,37.0,459,17000,0,Ленинский, Костычева,19,Площадь Маркса
+312,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294455837/,Новосибирск,rent,flat,5,26,3,60.0,666,40000,0,Ленинский,1-я Чулымская ,112/2,
+313,VDOME,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294180206/,Новосибирск,rent,flat,10,25,1,37.3,938,35000,0,Октябрьский,Покатная ,55А,
+314,ID 23445151,unknown,https://novosibirsk.cian.ru/rent/flat/294998973/,Новосибирск,rent,flat,14,25,1,42.0,714,30000,0,Октябрьский, Кошурникова,22/6,Золотая Нива
+315,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294723716/,Новосибирск,rent,flat,16,25,1,32.0,1250,40000,0,Заельцовский,Овражная ,3,Заельцовская
+316,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294724195/,Новосибирск,rent,flat,6,25,1,30.0,900,27000,0,Октябрьский, Лескова,25,Октябрьская
+317,ID 465186,homeowner,https://novosibirsk.cian.ru/rent/flat/292478037/,Новосибирск,rent,flat,1,2,3,62.0,403,25000,0,Кировский, Обогатительная,7,Площадь Маркса
+318,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294155419/,Новосибирск,rent,flat,3,17,1,30.0,1166,35000,0,Ленинский,,67,Студенческая
+319,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294942722/,Новосибирск,rent,flat,1,5,4,78.0,1025,80000,0,Советский,Золотодолинская ,31,
+320,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294853264/,Новосибирск,rent,flat,3,26,1,30.0,1133,34000,0,Заельцовский,Светлановская ,52,Заельцовская
+321,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294893984/,Новосибирск,rent,flat,5,9,1,46.0,804,37000,0,Центральный, Семьи Шамшиных,30,Площадь Ленина
+322,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293699399/,Новосибирск,rent,flat,11,20,1,36.0,916,33000,0,Железнодорожный,Фабричная ,65,Площадь Гарина-Михайловского
+323,ID 56088333,unknown,https://novosibirsk.cian.ru/rent/flat/295046997/,Новосибирск,rent,flat,4,16,1,35.0,571,20000,0,Калининский,Красный проспект,329/1,Заельцовская
+324,СФЕРА 54,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294193161/,Новосибирск,rent,flat,7,25,2,62.0,580,36000,0,Центральный, Крылова,34,
+325,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294485308/,Новосибирск,rent,flat,4,9,2,42.7,468,20000,0,Кировский, Саввы Кожевникова,3,
+326,ID 58961847,unknown,https://novosibirsk.cian.ru/rent/flat/294916378/,Новосибирск,rent,flat,3,9,1,32.0,500,16000,0,Советский, Молодости,46,
+327,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294686844/,Новосибирск,rent,flat,2,25,3,54.0,1111,60000,0,Заельцовский, Дмитрия Донского,21/1,
+328,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294707369/,Новосибирск,rent,flat,13,24,3,91.0,769,70000,0,Заельцовский, Дуси Ковальчук,248,Заельцовская
+329,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294139900/,Новосибирск,rent,flat,1,4,2,44.0,681,30000,0,Советский, Академическая,29,
+330,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294723338/,Новосибирск,rent,flat,8,18,2,49.0,816,40000,0,Ленинский,,8А,Студенческая
+331,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292743513/,Новосибирск,rent,flat,7,9,3,63.0,507,32000,0,Советский, Демакова,17/1,Студенческая
+332,ID 99185564,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295061027/,Новосибирск,rent,flat,17,19,1,36.0,555,20000,0,Центральный, Николая Островского,120,Маршала Покрышкина
+333,Алексей Шерин,realtor,https://novosibirsk.cian.ru/rent/flat/294432684/,Новосибирск,rent,flat,2,6,2,65.0,553,36000,0,Заельцовский,Кедровая ,45,Заельцовская
+334,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294190405/,Новосибирск,rent,flat,6,13,1,32.0,1093,35000,0,Октябрьский,Обская ,46/2,Речной вокзал
+335,Агентство Единый Центр Недвижимости,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294978305/,Новосибирск,rent,flat,6,9,1,38.0,526,20000,0,Калининский, Кочубея,1,Заельцовская
+336,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294335635/,Новосибирск,rent,flat,2,5,2,63.0,873,55000,0,Центральный, Свердлова,21,
+337,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294283527/,Новосибирск,rent,flat,8,9,1,38.0,710,27000,0,Заельцовский,Линейная ,45,
+338,ID 16105677,unknown,https://novosibirsk.cian.ru/rent/flat/291971337/,Новосибирск,rent,flat,18,19,1,25.0,800,20000,0,Дзержинский,проспект Дзержинского,32А,Березовая Роща
+339,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294686015/,Новосибирск,rent,flat,4,9,2,43.0,813,35000,0,Железнодорожный,Железнодорожная ,20,Гагаринская
+340,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294145991/,Новосибирск,rent,flat,4,9,2,67.0,522,35000,0,Железнодорожный, 1905 года,87,
+341,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/286313933/,Новосибирск,rent,flat,1,5,2,45.0,1000,45000,0,Заельцовский,Дачное шоссе,2,
+342,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294444240/,Новосибирск,rent,flat,10,18,2,100.0,650,65000,0,Центральный, Гоголя,44,Маршала Покрышкина
+343,Статус,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294147093/,Новосибирск,rent,flat,6,14,2,74.0,743,55000,0,Центральный, Ломоносова,55,Маршала Покрышкина
+344,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294301908/,Новосибирск,rent,flat,4,16,3,77.1,518,40000,0,Заельцовский, Тимирязева,58/1,Заельцовская
+345,ЕВРОДОМ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294492552/,Новосибирск,rent,flat,5,17,2,56.0,946,53000,0,Октябрьский,Большевистская ,120,
+346,ID 106988258,homeowner,https://novosibirsk.cian.ru/rent/flat/294253921/,Новосибирск,rent,flat,3,3,2,55.2,507,28000,0,Ленинский, Халтурина,22,Площадь Маркса
+347,ID 104181996,homeowner,https://novosibirsk.cian.ru/rent/flat/288696997/,Новосибирск,rent,flat,2,19,1,38.0,710,27000,0,Ленинский, Ясный Берег,6,Площадь Ленина
+348,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294749258/,Новосибирск,rent,flat,5,9,2,46.0,652,30000,0,Ленинский,Широкая ,23,
+349,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294533228/,Новосибирск,rent,flat,11,12,2,60.2,498,30000,0,Калининский, Тюленина,28/1,Заельцовская
+350,Елена Тупикина,realtor,https://novosibirsk.cian.ru/rent/flat/294966825/,Новосибирск,rent,flat,3,11,1,37.0,810,30000,0,Ленинский,переулок 3-й Крашенинникова,7,Площадь Маркса
+351,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294629414/,Новосибирск,rent,flat,9,12,2,49.8,702,35000,0,Ленинский,Вертковская ,38,
+352,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/291165996/,Новосибирск,rent,flat,5,6,2,67.0,522,35000,0,Кировский, Оловозаводская,18/2,
+353,Планета,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294998142/,Новосибирск,rent,flat,4,7,1,34.0,588,20000,0,Первомайский, Заречная,19,Речной вокзал
+354,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294684431/,Новосибирск,rent,flat,4,9,3,67.0,522,35000,0,Калининский, Рассветная,2/2,Заельцовская
+355,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294441472/,Новосибирск,rent,flat,3,17,2,55.0,636,35000,0,Ленинский,,69,
+356,ID 109367683,homeowner,https://novosibirsk.cian.ru/rent/flat/294493137/,Новосибирск,rent,flat,5,7,2,50.0,760,38000,0,Центральный,Депутатская ,38,Площадь Ленина
+357,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294711410/,Новосибирск,rent,flat,12,25,2,58.0,655,38000,0,Заельцовский, Дмитрия Донского,21/1,
+358,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292766756/,Новосибирск,rent,flat,7,15,1,38.0,1184,45000,0,Ленинский,1-я Шоссейная ,64,
+359,ID 61571233,unknown,https://novosibirsk.cian.ru/rent/flat/294844793/,Новосибирск,rent,flat,6,10,2,54.0,462,25000,0,Октябрьский, В. Высоцкого,36,Золотая Нива
+360,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293569510/,Новосибирск,rent,flat,7,18,2,69.0,724,50000,0,Центральный, Некрасова,63/1,
+361,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294723718/,Новосибирск,rent,flat,1,10,1,32.0,781,25000,0,Октябрьский,Лазурная ,2,
+362,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294145986/,Новосибирск,rent,flat,8,9,3,78.0,641,50000,0,Калининский,Народная ,26,
+363,ID 61491018,homeowner,https://novosibirsk.cian.ru/rent/flat/294787574/,Новосибирск,rent,flat,21,25,1,36.6,683,25000,0,Кировский,Беловежская ,4/1,Площадь Маркса
+364,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294145988/,Новосибирск,rent,flat,17,17,3,74.0,810,60000,0,Дзержинский, Бориса Богаткова,253/4,
+365,МакроМир,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294733252/,Новосибирск,rent,flat,15,16,2,75.0,600,45000,0,Центральный,Каменская ,56/2,Площадь Ленина
+366,ID 89910388,homeowner,https://novosibirsk.cian.ru/rent/flat/294460782/,Новосибирск,rent,flat,7,16,1,42.0,1071,45000,0,Октябрьский,2-я Обская ,71/1,Речной вокзал
+367,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294913715/,Новосибирск,rent,flat,6,10,2,50.0,400,20000,0,Дзержинский, Есенина,10/2,Золотая Нива
+368,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294805499/,Новосибирск,rent,flat,10,12,2,60.0,500,30000,0,Ленинский, Романтиков,4,
+369,ID 96929452,homeowner,https://novosibirsk.cian.ru/rent/flat/292173994/,Новосибирск,rent,flat,8,17,1,30.0,666,20000,0,Первомайский, Одоевского,1/11,Речной вокзал
+370,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294905289/,Новосибирск,rent,flat,2,5,2,45.0,555,25000,0,Первомайский,Звездная ,7,
+371,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294789156/,Новосибирск,rent,flat,14,15,1,37.0,729,27000,0,Ленинский,1-я Шоссейная ,62,
+372,ID 72157883,homeowner,https://novosibirsk.cian.ru/rent/flat/294833775/,Новосибирск,rent,flat,2,5,2,42.9,699,30000,0,Ленинский, Забалуева,80,
+373,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294640177/,Новосибирск,rent,flat,5,10,2,52.0,500,26000,0,Октябрьский, В. Высоцкого,39,Золотая Нива
+374,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294594570/,Новосибирск,rent,flat,19,19,1,33.7,801,27000,0,Октябрьский,Обская ,82,
+375,ID 99185564,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294996969/,Новосибирск,rent,flat,9,18,3,130.0,153,20000,0,Заельцовский, Галущака,15,Гагаринская
+376,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294491048/,Новосибирск,rent,flat,5,8,1,50.0,2400,120000,0,Заельцовский,Дачное шоссе,22/3,Заельцовская
+377,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294860923/,Новосибирск,rent,flat,8,13,2,70.0,500,35000,0,Дзержинский,проспект Дзержинского,14,Березовая Роща
+378,Новосибирское Квартирное Агентство,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295033257/,Новосибирск,rent,flat,1,10,3,75.0,373,28000,0,Октябрьский, Татьяны Снежиной,49,Золотая Нива
+379,ДОКТОР КЛЮЧ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294434856/,Новосибирск,rent,flat,7,9,2,73.7,949,70000,0,Заельцовский,Кедровая ,71,Заельцовская
+380,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294432971/,Новосибирск,rent,flat,14,17,2,53.3,806,43000,0,Ленинский, Ясный Берег,33,Площадь Ленина
+381,Созвездие Весов,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/291676016/,Новосибирск,rent,flat,1,3,1,41.83,454,19000,0,Советский,,,
+382,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294590136/,Новосибирск,rent,flat,9,25,2,62.0,1129,70000,0,Октябрьский,Гурьевская ,177/1,Золотая Нива
+383,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294014187/,Новосибирск,rent,flat,11,21,1,45.0,1022,46000,0,Заельцовский,Красный проспект,220,Заельцовская
+384,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/292074670/,Новосибирск,rent,flat,10,19,3,80.0,1500,120000,0,Железнодорожный, Щетинкина,18,Площадь Ленина
+385,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294201849/,Новосибирск,rent,flat,12,17,3,106.5,751,80000,0,Октябрьский, Кирова,44/2,
+386,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293930533/,Новосибирск,rent,flat,13,17,3,58.0,603,35000,0,Ленинский, Ясный Берег,5,
+387,ID 89944544,unknown,https://novosibirsk.cian.ru/rent/flat/295009660/,Новосибирск,rent,flat,14,28,1,28.0,892,25000,0,Центральный, Романова,60,Маршала Покрышкина
+388,Квадротека,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294626977/,Новосибирск,rent,flat,1,10,2,40.0,500,20000,0,Кировский, Зорге,94,Площадь Маркса
+389,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294253526/,Новосибирск,rent,flat,15,17,1,45.0,866,39000,0,Советский,бульвар Молодежи,15,Речной вокзал
+390,Сибирский Партнер,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293600791/,Новосибирск,rent,flat,4,5,3,72.0,416,30000,0,Октябрьский, Территория Военного городка,773,
+391,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294941747/,Новосибирск,rent,flat,1,17,1,32.0,937,30000,0,Ленинский,Междуреченская ,5/3,Площадь Маркса
+392,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294749240/,Новосибирск,rent,flat,7,15,1,38.0,789,30000,0,Калининский,Танковая ,32,
+393,Андрей Каравайцев,realtor,https://novosibirsk.cian.ru/rent/flat/295070942/,Новосибирск,rent,flat,5,25,1,40.0,700,28000,0,Заельцовский, Залесского,2/3,Заельцовская
+394,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294748636/,Новосибирск,rent,flat,4,5,2,47.0,765,36000,0,Советский, Иванова,42,Студенческая
+395,Александр Садовский,realtor,https://novosibirsk.cian.ru/rent/flat/294145809/,Новосибирск,rent,flat,3,9,2,44.0,568,25000,0,Кировский, Петухова,122/1,Площадь Маркса
+396,Сибирский центр недвижимости и права,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294236488/,Новосибирск,rent,flat,10,10,1,38.0,473,18000,0,Кировский, Зорге,94,Площадь Маркса
+397,Rialtor Group,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292913328/,Новосибирск,rent,flat,9,25,2,60.0,800,48000,0,Центральный, Романова,60/1,Площадь Ленина
+398,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292390673/,Новосибирск,rent,flat,4,10,2,45.0,888,40000,0,Ленинский,Троллейная ,1,Площадь Маркса
+399,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294133390/,Новосибирск,rent,flat,8,10,1,36.8,489,18000,0,Ленинский,Спортивная ,23,
+400,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294903513/,Новосибирск,rent,flat,6,17,2,50.0,700,35000,0,Ленинский, Ясный Берег,5,Площадь Гарина-Михайловского
+401,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294549912/,Новосибирск,rent,flat,13,26,1,28.0,1428,40000,0,Ленинский, Ясный Берег,23,Площадь Ленина
+402,Rielt Market,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295029010/,Новосибирск,rent,flat,7,27,2,44.6,829,37000,0,Заельцовский,Дачная ,42,Заельцовская
+403,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294943275/,Новосибирск,rent,flat,7,10,1,40.0,550,22000,0,Ленинский, Связистов,15,Площадь Маркса
+404,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293734236/,Новосибирск,rent,flat,2,22,1,30.0,1166,35000,0,Железнодорожный,Фабричная ,65/3,Площадь Гарина-Михайловского
+405,РиэлтКом,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294708668/,Новосибирск,rent,flat,6,9,2,54.0,592,32000,0,Советский, Полевая,8,
+406,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294866915/,Новосибирск,rent,flat,3,17,1,37.0,486,18000,0,Ленинский,Междуреченская ,1,Площадь Гарина-Михайловского
+407,МакроМир,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294683939/,Новосибирск,rent,flat,8,10,2,58.0,517,30000,0,Железнодорожный, Прибрежная,4,Площадь Гарина-Михайловского
+408,Марина Иванова,realtor,https://novosibirsk.cian.ru/rent/flat/295038925/,Новосибирск,rent,flat,8,10,1,36.0,722,26000,0,Ленинский,Тихвинская ,14,
+409,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294804253/,Новосибирск,rent,flat,2,12,2,47.0,744,35000,0,Октябрьский, Бориса Богаткова,230,Золотая Нива
+410,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294628436/,Новосибирск,rent,flat,17,17,3,105.0,714,75000,0,Дзержинский, Адриена Лежена,9/2,
+411,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294503252/,Новосибирск,rent,flat,9,9,3,64.1,468,30000,0,Октябрьский, Ключ-Камышенское плато,8,
+412,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294733697/,Новосибирск,rent,flat,3,10,1,35.0,571,20000,0,Кировский, Виктора Уса,3,Площадь Маркса
+413,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294445521/,Новосибирск,rent,flat,6,10,2,53.0,415,22000,0,Калининский, Земнухова,6,Заельцовская
+414,ID 102789636,unknown,https://novosibirsk.cian.ru/rent/flat/294250323/,Новосибирск,rent,flat,3,10,1,35.0,514,18000,0,Октябрьский, Виталия Потылицына,11,Золотая Нива
+415,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294861028/,Новосибирск,rent,flat,3,9,2,35.0,657,23000,0,Кировский, Зорге,129,
+416,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294691158/,Новосибирск,rent,flat,3,10,3,87.0,344,30000,0,Кировский, Виктора Шевелева,38/1,
+417,Андрей Каравайцев,realtor,https://novosibirsk.cian.ru/rent/flat/295070857/,Новосибирск,rent,flat,2,9,2,55.0,454,25000,0,Калининский, Курчатова,7/3,Заельцовская
+418,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294663124/,Новосибирск,rent,flat,9,9,1,26.0,1346,35000,0,Ленинский, Ясный Берег,12,Площадь Гарина-Михайловского
+419,ID 71330202,unknown,https://novosibirsk.cian.ru/rent/flat/294798958/,Новосибирск,rent,flat,17,24,2,62.0,612,38000,0,Калининский, 25 лет Октября,14/3,
+420,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294441454/,Новосибирск,rent,flat,5,5,3,120.0,375,45000,0,Заельцовский, Медкадры,8,
+421,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294391396/,Новосибирск,rent,flat,7,9,3,67.0,686,46000,0,Кировский, Комсомольская,21,Студенческая
+422,ID 105184090,homeowner,https://novosibirsk.cian.ru/rent/flat/291263291/,Новосибирск,rent,flat,2,5,3,75.0,400,30000,0,Ленинский, Пархоменко,76,Студенческая
+423,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294826706/,Новосибирск,rent,flat,3,16,3,83.0,602,50000,0,Заельцовский, Дуси Ковальчук,250,Заельцовская
+424,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294495879/,Новосибирск,rent,flat,5,9,2,48.0,833,40000,0,Заельцовский,Красный проспект,100/2,Заельцовская
+425,ID 460508,realtor,https://novosibirsk.cian.ru/rent/flat/294870719/,Новосибирск,rent,flat,5,9,2,60.0,833,50000,0,Железнодорожный,Коммунистическая ,11,Площадь Ленина
+426,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294484002/,Новосибирск,rent,flat,7,16,2,50.0,800,40000,0,Железнодорожный, Салтыкова-Щедрина,128,Площадь Гарина-Михайловского
+427,Красный Проспект Недвижимость - Дополнительный Офис,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293548509/,Новосибирск,rent,flat,8,16,4,141.0,638,90000,0,Центральный, Чаплыгина,93,Площадь Ленина
+428,Валентина Ситникова,realtor,https://novosibirsk.cian.ru/rent/flat/294957792/,Новосибирск,rent,flat,3,3,2,40.0,625,25000,0,Советский, Молодости,6,Студенческая
+429,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293207714/,Новосибирск,rent,flat,5,16,3,100.0,1450,145000,0,Центральный, Чаплыгина,93,
+430,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292766754/,Новосибирск,rent,flat,14,17,2,52.0,961,50000,0,Дзержинский, Адриена Лежена,9/1,
+431,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295054954/,Новосибирск,rent,flat,10,14,3,74.0,378,28000,0,Первомайский, Заречная,,Речной вокзал
+432,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294347347/,Новосибирск,rent,flat,11,17,3,80.0,687,55000,0,Октябрьский,Закаменский мкр,14,
+433,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294450529/,Новосибирск,rent,flat,4,16,2,83.0,807,67000,0,Центральный, Чаплыгина,93,
+434,ID 109908652,homeowner,https://novosibirsk.cian.ru/rent/flat/295023877/,Новосибирск,rent,flat,5,12,2,52.0,673,35000,0,Железнодорожный, 1905 года,17/2,Площадь Гарина-Михайловского
+435,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294808450/,Новосибирск,rent,flat,11,18,2,54.0,648,35000,0,Кировский, Александра Чистякова,4,Студенческая
+436,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294642699/,Новосибирск,rent,flat,23,24,2,51.0,529,27000,0,Кировский, Петухова,162,
+437,НОВО-НИКОЛАЕВСКЪ-НСК,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292742855/,Новосибирск,rent,flat,9,16,1,64.5,930,60000,0,Железнодорожный, Урицкого,21,Площадь Ленина
+438,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294758932/,Новосибирск,rent,flat,6,12,3,66.0,757,50000,0,Октябрьский,Выборная ,129/1,Золотая Нива
+439,ID 91652980,homeowner,https://novosibirsk.cian.ru/rent/flat/294414821/,Новосибирск,rent,flat,8,10,2,75.0,666,50000,0,Ленинский, Котовского,21/1,Площадь Маркса
+440,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294901591/,Новосибирск,rent,flat,3,19,2,79.0,455,36000,0,Центральный, Николая Островского,120,Маршала Покрышкина
+441,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293930320/,Новосибирск,rent,flat,3,4,3,113.0,1061,120000,0,Заельцовский,Дачное шоссе,2,Заельцовская
+442,Оксана Корнева,realtor,https://novosibirsk.cian.ru/rent/flat/294941247/,Новосибирск,rent,flat,21,27,1,28.8,1111,32000,0,Ленинский, Ясный Берег,27,Речной вокзал
+443,СФЕРА 54,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294891069/,Новосибирск,rent,flat,1,10,2,45.0,488,22000,0,Октябрьский, Грибоедова,32/1,
+444,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294763198/,Новосибирск,rent,flat,5,5,2,41.0,682,28000,0,Железнодорожный, Урицкого,7,Площадь Ленина
+445,ID 74540089,homeowner,https://novosibirsk.cian.ru/rent/flat/266066794/,Новосибирск,rent,flat,3,7,2,73.0,890,65000,0,Заельцовский,Кедровая ,63,Заельцовская
+446,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294057981/,Новосибирск,rent,flat,10,12,3,77.0,538,41500,0,Центральный,Советская ,56,Красный Проспект
+447,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292274238/,Новосибирск,rent,flat,4,16,2,56.0,589,33000,0,Дзержинский, Адриена Лежена,27/1,
+448,ID 109754432,homeowner,https://novosibirsk.cian.ru/rent/flat/294863608/,Новосибирск,rent,flat,6,18,1,36.0,694,25000,0,Ленинский, Забалуева,102,Площадь Маркса
+449,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294283521/,Новосибирск,rent,flat,3,18,1,38.0,342,13000,0,Кировский, Петухова,95/4,
+450,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294905532/,Новосибирск,rent,flat,2,2,3,63.0,428,27000,0,Заельцовский,Сухарная ,86,Площадь Гарина-Михайловского
+451,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293644499/,Новосибирск,rent,flat,1,9,1,41.0,1219,50000,0,Центральный, Ольги Жилиной,23,
+452,ID 90285631,homeowner,https://novosibirsk.cian.ru/rent/flat/294944384/,Новосибирск,rent,flat,10,27,1,46.0,695,32000,0,Октябрьский, Лескова,23,Октябрьская
+453,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294845752/,Новосибирск,rent,flat,4,9,1,56.0,535,30000,0,Центральный, Семьи Шамшиных,30,Площадь Ленина
+454,Домой,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294536291/,Новосибирск,rent,flat,15,26,1,34.3,1282,44000,0,Кировский, Немировича-Данченко,158,Студенческая
+455,Светлана Волкова,realtor,https://novosibirsk.cian.ru/rent/flat/294900714/,Новосибирск,rent,flat,8,10,1,39.0,461,18000,0,Октябрьский, Плющихинская,142/5,
+456,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293593732/,Новосибирск,rent,flat,5,25,1,40.0,825,33000,0,Октябрьский, Добролюбова,16/1,Речной вокзал
+457,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292668749/,Новосибирск,rent,flat,3,5,1,31.0,870,27000,0,Ленинский, Пермитина,4,Площадь Маркса
+458,Андрей Каравайцев,realtor,https://novosibirsk.cian.ru/rent/flat/294628770/,Новосибирск,rent,flat,7,10,1,40.0,500,20000,0,Кировский, Петухова,164,Площадь Маркса
+459,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294644136/,Новосибирск,rent,flat,15,24,1,24.0,1166,28000,0,Октябрьский, Владимира Заровного,22,Речной вокзал
+460,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294868039/,Новосибирск,rent,flat,8,9,1,36.0,777,28000,0,Заельцовский,Линейная ,45,
+461,Дом Профи,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294212911/,Новосибирск,rent,flat,12,24,1,38.0,473,18000,0,Кировский, Петухова,162,
+462,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294726464/,Новосибирск,rent,flat,2,25,1,30.4,1052,32000,0,Ленинский,,14,Студенческая
+463,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294711408/,Новосибирск,rent,flat,4,9,2,74.0,608,45000,0,Октябрьский, Лескова,19,
+464,ДомианНСК,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294483416/,Новосибирск,rent,flat,10,16,1,36.8,543,20000,0,Калининский, Краузе,21/1,
+465,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294491042/,Новосибирск,rent,flat,11,25,1,47.0,957,45000,0,Центральный, Фрунзе,49/2,Маршала Покрышкина
+466,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294722928/,Новосибирск,rent,flat,21,28,2,49.0,1020,50000,0,Заельцовский,Овражная ,3,
+467,ID 92565322,realtor,https://novosibirsk.cian.ru/rent/flat/294288352/,Новосибирск,rent,flat,7,9,2,50.0,460,23000,0,Ленинский, Филатова,14,
+468,Rialtor Group,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293791356/,Новосибирск,rent,flat,13,26,2,45.2,1327,60000,0,Заельцовский,Дачная ,42/1,Заельцовская
+469,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294864487/,Новосибирск,rent,flat,4,5,1,29.0,965,28000,0,Центральный, Крылова,43А,
+470,ID 101459050,homeowner,https://novosibirsk.cian.ru/rent/flat/294698086/,Новосибирск,rent,flat,7,26,2,40.3,694,28000,0,Ленинский,1-я Чулымская ,112/2,Студенческая
+471,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294344829/,Новосибирск,rent,flat,15,17,1,37.0,810,30000,0,Калининский,Красный проспект,314,
+472,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294533230/,Новосибирск,rent,flat,4,5,2,42.8,700,30000,0,Калининский,Танковая ,5,Заельцовская
+473,ID 102201618,homeowner,https://novosibirsk.cian.ru/rent/flat/294850051/,Новосибирск,rent,flat,5,15,2,58.8,680,40000,0,Октябрьский, Бориса Богаткова,201/3,Золотая Нива
+474,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294594574/,Новосибирск,rent,flat,6,16,1,41.0,731,30000,0,Калининский,Красный проспект,322,Заельцовская
+475,ID 98761320,homeowner,https://novosibirsk.cian.ru/rent/flat/290840508/,Новосибирск,rent,flat,9,27,1,38.0,1000,38000,0,Центральный, Фрунзе,49,Маршала Покрышкина
+476,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294651146/,Новосибирск,rent,flat,8,26,1,26.0,1538,40000,0,Октябрьский,Большевистская ,32/1,Речной вокзал
+477,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293564219/,Новосибирск,rent,flat,9,13,1,28.0,1428,40000,0,Октябрьский,Обская ,46/2,Речной вокзал
+478,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294592421/,Новосибирск,rent,flat,17,17,2,50.0,800,40000,0,Октябрьский, Ключ-Камышенское плато,26/2,Речной вокзал
+479,Александр Бетин,realtor,https://novosibirsk.cian.ru/rent/flat/288402045/,Новосибирск,rent,flat,9,9,3,60.0,566,34000,0,Ленинский,Новосибирская ,20,Площадь Маркса
+480,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294736804/,Новосибирск,rent,flat,5,5,1,92.0,543,50000,0,Ленинский, Котовского,21,Площадь Маркса
+481,Сибирский Партнер,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293318776/,Новосибирск,rent,flat,5,7,4,115.0,434,50000,0,Центральный, Державина,61,Маршала Покрышкина
+482,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294941391/,Новосибирск,rent,flat,8,15,1,24.0,1125,27000,0,Октябрьский, Владимира Заровного,40,Речной вокзал
+483,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294435120/,Новосибирск,rent,flat,8,12,3,100.0,600,60000,0,Заельцовский, Галущака,17,Гагаринская
+484,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/292266893/,Новосибирск,rent,flat,2,3,3,80.0,750,60000,0,Заельцовский, Кузьмы Минина,24,Заельцовская
+485,ID 21017475,unknown,https://novosibirsk.cian.ru/rent/flat/294984736/,Новосибирск,rent,flat,2,5,3,60.0,616,37000,0,Заельцовский,Рельсовая ,2/1,Гагаринская
+486,Новактив,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294296108/,Новосибирск,rent,flat,5,6,4,124.0,725,90000,0,Заельцовский,Красный проспект,234,
+487,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294432344/,Новосибирск,rent,flat,6,17,1,36.32,633,23000,0,Ленинский, Забалуева,102,
+488,ID 39482381,realtor,https://novosibirsk.cian.ru/rent/flat/294957708/,Новосибирск,rent,flat,13,27,1,39.0,769,30000,0,Центральный, Крылова,34,Сибирская
+489,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294710333/,Новосибирск,rent,flat,12,12,2,30.0,833,25000,0,Ленинский, Юности,1,
+490,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294457734/,Новосибирск,rent,flat,5,10,1,52.0,365,19000,0,Кировский, Виктора Шевелева,20,Студенческая
+491,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294768490/,Новосибирск,rent,flat,7,27,1,45.0,666,30000,0,Ленинский,1-я Чулымская ,112/2,Площадь Гарина-Михайловского
+492,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293304192/,Новосибирск,rent,flat,4,9,4,72.0,500,36000,0,Заельцовский, Кропоткина,128,Гагаринская
+493,Денис Чернов,realtor,https://novosibirsk.cian.ru/rent/flat/277392075/,Новосибирск,rent,flat,10,18,2,47.0,1170,55000,0,Центральный,Трудовая ,25,Площадь Ленина
+494,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294894791/,Новосибирск,rent,flat,4,5,3,67.0,597,40000,0,Советский, Героев Труда,33,
+495,Олег Выдрин,realtor,https://novosibirsk.cian.ru/rent/flat/294981445/,Новосибирск,rent,flat,2,5,2,54.0,648,35000,0,Центральный,Трудовая ,7,Площадь Ленина
+496,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294850899/,Новосибирск,rent,flat,5,8,3,76.0,1578,120000,0,Железнодорожный, Урицкого,6,
+497,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294939570/,Новосибирск,rent,flat,5,17,2,37.1,943,35000,0,Ленинский, Связистов,13/2,Площадь Маркса
+498,ID 109648830,homeowner,https://novosibirsk.cian.ru/rent/flat/294739804/,Новосибирск,rent,flat,15,19,3,70.0,714,50000,0,Ленинский,Стартовая ,1,Студенческая
+499,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294952943/,Новосибирск,rent,flat,3,19,2,60.9,656,40000,0,Центральный, Николая Островского,120,
+500,ID 109934329,homeowner,https://novosibirsk.cian.ru/rent/flat/295062577/,Новосибирск,rent,flat,5,11,3,92.0,543,50000,0,Центральный, Ольги Жилиной,60,Маршала Покрышкина
+501,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294941748/,Новосибирск,rent,flat,2,5,2,42.0,714,30000,0,Центральный, Гоголя,3,Красный Проспект
+502,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294435001/,Новосибирск,rent,flat,13,20,2,45.3,1434,65000,0,Октябрьский, Декабристов,41,
+503,Валентина Ситникова,realtor,https://novosibirsk.cian.ru/rent/flat/294889725/,Новосибирск,rent,flat,3,18,2,60.0,466,28000,0,Советский, Балтийская,31,
+504,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/294208690/,Новосибирск,rent,flat,3,6,3,106.0,1226,130000,0,Заельцовский, Победы,55/1,Заельцовская
+505,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293759514/,Новосибирск,rent,flat,2,10,2,62.0,887,55000,0,Октябрьский,Большевистская ,112,
+506,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293231596/,Новосибирск,rent,flat,3,6,3,126.0,476,60000,0,Советский, Лесосечная,14,
+507,ID 91115925,homeowner,https://novosibirsk.cian.ru/rent/flat/273687637/,Новосибирск,rent,flat,3,9,1,29.5,949,28000,0,Дзержинский, Кошурникова,29/1,Золотая Нива
+508,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294864352/,Новосибирск,rent,flat,2,9,4,67.0,522,35000,0,Октябрьский,Ленинградская ,273,Речной вокзал
+509,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294939565/,Новосибирск,rent,flat,1,2,3,71.0,507,36000,0,Первомайский,1-я Механическая ,8,Речной вокзал
+510,Планета,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294590493/,Новосибирск,rent,flat,3,5,2,44.1,770,34000,0,Центральный, Гоголя,3,Красный Проспект
+511,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293735863/,Новосибирск,rent,flat,10,25,3,56.0,803,45000,0,Кировский, Немировича-Данченко,150,Студенческая
+512,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294870150/,Новосибирск,rent,flat,3,5,1,31.0,967,30000,0,Калининский,Танковая ,11,
+513,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294750847/,Новосибирск,rent,flat,5,10,1,38.0,789,30000,0,Заельцовский,Холодильная ,18/3,Гагаринская
+514,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293687255/,Новосибирск,rent,flat,6,6,2,60.0,450,27000,0,Калининский, Дунаевского,3,Заельцовская
+515,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294945606/,Новосибирск,rent,flat,6,14,2,39.0,692,27000,0,Калининский,Красный проспект,331/2,
+516,ID 93739627,homeowner,https://novosibirsk.cian.ru/rent/flat/276311902/,Новосибирск,rent,flat,20,23,2,48.0,458,22000,0,Кировский, Петухова,105,
+517,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294949567/,Новосибирск,rent,flat,2,9,2,44.0,636,28000,0,Дзержинский, Королева,21,Березовая Роща
+518,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294941072/,Новосибирск,rent,flat,6,25,1,39.0,1025,40000,0,Заельцовский,Красный проспект,167/4,
+519,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294938819/,Новосибирск,rent,flat,9,10,2,44.0,1295,57000,0,Заельцовский,Кубовая ,53,
+520,ID 99040217,realtor,https://novosibirsk.cian.ru/rent/flat/295027256/,Новосибирск,rent,flat,10,12,1,50.0,900,45000,0,Советский,проспект Академика Коптюга,19,
+521,Ривьера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293249706/,Новосибирск,rent,flat,4,17,3,72.0,694,50000,0,Кировский, Сибиряков-Гвардейцев,44/7,
+522,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294861030/,Новосибирск,rent,flat,7,10,3,80.0,500,40000,0,Железнодорожный, 1905 года,2,
+523,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/295048366/,Новосибирск,rent,flat,19,19,3,65.0,769,50000,0,Дзержинский, Авиастроителей,18,Березовая Роща
+524,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294729689/,Новосибирск,rent,flat,12,23,1,37.8,1005,38000,0,Железнодорожный, Дмитрия Шамшурина,29,
+525,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294059283/,Новосибирск,rent,flat,5,16,2,78.8,951,75000,0,Центральный, Сибревкома,7/1,
+526,Агентство Единый Центр Недвижимости,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294948154/,Новосибирск,rent,flat,11,17,2,50.0,800,40000,0,Железнодорожный,Красноярская ,132,Площадь Гарина-Михайловского
+527,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294710339/,Новосибирск,rent,flat,10,26,3,61.0,901,55000,0,Ленинский, Ясный Берег,16,
+528,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294859614/,Новосибирск,rent,flat,9,9,3,110.0,727,80000,0,Октябрьский, Шевченко,31,Октябрьская
+529,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/279512641/,Новосибирск,rent,flat,4,4,3,74.4,739,55000,0,Советский,проспект Морской,34,
+530,Татьяна Быкова,realtor,https://novosibirsk.cian.ru/rent/flat/243099132/,Новосибирск,rent,flat,23,25,1,38.0,868,33000,0,Центральный, Фрунзе,20,Маршала Покрышкина
+531,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294710344/,Новосибирск,rent,flat,1,5,3,58.1,516,30000,0,Кировский, Палласа,6,
+532,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294882190/,Новосибирск,rent,flat,1,9,2,42.0,476,20000,0,Кировский, Комсомольская,,
+533,Rielt Market,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/275691691/,Новосибирск,rent,flat,5,24,2,60.0,866,52000,0,Октябрьский,Обская ,46,Речной вокзал
+534,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294733031/,Новосибирск,rent,flat,14,16,2,68.0,735,50000,0,Заельцовский,Овражная ,12,Заельцовская
+535,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294808983/,Новосибирск,rent,flat,2,5,3,59.0,508,30000,0,Кировский, Немировича-Данченко,153,
+536,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294821445/,Новосибирск,rent,flat,13,15,1,36.0,1027,37000,0,Ленинский,1-я Шоссейная ,64,
+537,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294814832/,Новосибирск,rent,flat,5,16,1,41.0,731,30000,0,Ленинский,,78,
+538,Недвижимость Новосибирска-НН,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294983830/,Новосибирск,rent,flat,8,28,3,83.0,963,80000,0,Железнодорожный, 1905 года,73,Красный Проспект
+539,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294752869/,Новосибирск,rent,flat,3,10,2,54.0,555,30000,0,Октябрьский, В. Высоцкого,38,
+540,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294832964/,Новосибирск,rent,flat,8,16,2,48.0,687,33000,0,Заельцовский, Тимирязева,58/1,Заельцовская
+541,ID 460508,realtor,https://novosibirsk.cian.ru/rent/flat/294746928/,Новосибирск,rent,flat,17,21,4,150.0,1166,175000,0,Калининский, Богдана Хмельницкого,11/3,Заельцовская
+542,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294889694/,Новосибирск,rent,flat,6,9,3,56.0,696,39000,0,Железнодорожный, Челюскинцев,30,Площадь Гарина-Михайловского
+543,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294773818/,Новосибирск,rent,flat,4,10,3,74.0,567,42000,0,Железнодорожный, Вокзальная магистраль,4/1,Площадь Гарина-Михайловского
+544,Сибриэлт,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/291574557/,Новосибирск,rent,flat,14,14,4,170.0,500,85000,0,Советский, Ильича,23,
+545,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294944133/,Новосибирск,rent,flat,7,13,3,110.0,500,55000,0,Центральный, Крылова,48,
+546,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294882183/,Новосибирск,rent,flat,7,9,2,58.0,517,30000,0,Октябрьский, Никитина,66,
+547,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294861026/,Новосибирск,rent,flat,2,20,2,59.6,419,25000,0,Ленинский,Междуреченская ,1/2,
+548,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294554487/,Новосибирск,rent,flat,9,10,1,30.0,833,25000,0,Калининский, Тюленина,21/1,Заельцовская
+549,Кирилл Куделенко,realtor,https://novosibirsk.cian.ru/rent/flat/294687593/,Новосибирск,rent,flat,13,18,4,76.0,986,75000,0,Октябрьский,Большевистская ,104,Октябрьская
+550,ID 11535108,unknown,https://novosibirsk.cian.ru/rent/flat/294651155/,Новосибирск,rent,flat,4,15,3,80.0,375,30000,0,Кировский, Петухова,12/6,Студенческая
+551,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294205617/,Новосибирск,rent,flat,4,16,1,43.0,930,40000,0,Заельцовский, Залесского,8/1,Заельцовская
+552,ID 98939415,unknown,https://novosibirsk.cian.ru/rent/flat/285794979/,Новосибирск,rent,flat,3,6,4,144.0,1145,165000,0,Заельцовский, Победы,55/1,Заельцовская
+553,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294393109/,Новосибирск,rent,flat,20,25,2,64.0,1093,70000,0,Октябрьский, Владимира Заровного,22,
+554,ID 53299228,homeowner,https://novosibirsk.cian.ru/rent/flat/287992639/,Новосибирск,rent,flat,1,25,1,38.0,1315,50000,0,Октябрьский,Закаменский мкр,23,Березовая Роща
+555,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294715256/,Новосибирск,rent,flat,13,25,1,36.0,888,32000,0,Октябрьский,Гурьевская ,177/1,
+556,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294893972/,Новосибирск,rent,flat,5,12,2,64.0,625,40000,0,Октябрьский, Грибоедова,32/3,Октябрьская
+557,ДОМОТЕКА,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294255967/,Новосибирск,rent,flat,7,16,1,41.7,719,30000,0,Октябрьский,Обская ,46/2,Речной вокзал
+558,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294769445/,Новосибирск,rent,flat,3,17,2,63.0,714,45000,0,Октябрьский, Лескова,29,Октябрьская
+559,Кирилл Куделенко,realtor,https://novosibirsk.cian.ru/rent/flat/295036735/,Новосибирск,rent,flat,2,19,3,110.0,818,90000,0,Центральный, Семьи Шамшиных,24/2,Площадь Ленина
+560,Начало перемен,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294864060/,Новосибирск,rent,flat,13,17,2,60.0,633,38000,0,Октябрьский,Закаменский мкр,14,
+561,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294860927/,Новосибирск,rent,flat,1,5,3,60.0,666,40000,0,Октябрьский, Никитина,138Б,Золотая Нива
+562,Планета Недвижимости -подразделение ООО Лаки,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293968594/,Новосибирск,rent,flat,6,9,4,78.0,448,35000,0,Ленинский, 9-й Гвардейской Дивизии,7,
+563,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294166742/,Новосибирск,rent,flat,16,25,1,27.0,1111,30000,0,Заельцовский,Светлановская ,52/2,Заельцовская
+564,ID 70233944,unknown,https://novosibirsk.cian.ru/rent/flat/294989514/,Новосибирск,rent,flat,21,28,2,64.7,850,55000,0,Октябрьский, Шевченко,25,Октябрьская
+565,Ваш Академгородок,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/290999112/,Новосибирск,rent,flat,6,11,3,117.0,555,65000,0,Советский, Пирогова,26,
+566,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294797231/,Новосибирск,rent,flat,17,17,2,68.0,514,35000,0,Ленинский, Ясный Берег,15,
+567,Светлана Волкова,realtor,https://novosibirsk.cian.ru/rent/flat/294203827/,Новосибирск,rent,flat,5,27,1,48.0,937,45000,0,Центральный,Ядринцевская ,57,Площадь Ленина
+568,Вячеслав Пунгин,realtor,https://novosibirsk.cian.ru/rent/flat/291021086/,Новосибирск,rent,flat,3,12,3,130.0,692,90000,0,Железнодорожный,Сибирская ,57,Красный Проспект
+569,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294808988/,Новосибирск,rent,flat,11,17,2,67.0,552,37000,0,Заельцовский, Дуси Ковальчук,270/3,
+570,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294815167/,Новосибирск,rent,flat,25,25,1,37.4,1203,45000,0,Центральный, Фрунзе,49,Маршала Покрышкина
+571,Евгения Назырова,realtor,https://novosibirsk.cian.ru/rent/flat/295060382/,Новосибирск,rent,flat,8,25,2,40.0,2000,80000,0,Октябрьский, Кирова,50,Октябрьская
+572,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294821103/,Новосибирск,rent,flat,18,25,1,40.0,875,35000,0,Октябрьский, Лескова,25,Октябрьская
+573,Проспект,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/295014387/,Новосибирск,rent,flat,6,9,3,110.0,590,65000,0,Центральный, Семьи Шамшиных,4,Октябрьская
+574,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294913656/,Новосибирск,rent,flat,5,12,2,58.0,689,40000,0,Октябрьский, Грибоедова,32/2,
+575,Олег Выдрин,realtor,https://novosibirsk.cian.ru/rent/flat/294981208/,Новосибирск,rent,flat,9,9,2,65.0,661,43000,0,Железнодорожный,Октябрьская ,34,Площадь Ленина
+576,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294939569/,Новосибирск,rent,flat,6,25,1,39.0,1153,45000,0,Октябрьский, Кирова,11,Октябрьская
+577,HOME НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294941060/,Новосибирск,rent,flat,8,17,1,59.0,762,45000,0,Центральный, Сибревкома,7/1,Октябрьская
+578,ID 460508,realtor,https://novosibirsk.cian.ru/rent/flat/294746940/,Новосибирск,rent,flat,9,16,3,90.0,888,80000,0,Октябрьский, Кирова,46,Октябрьская
+579,Андрей Каравайцев,realtor,https://novosibirsk.cian.ru/rent/flat/294970643/,Новосибирск,rent,flat,2,4,2,44.0,795,35000,0,Советский, Героев Труда,13,Речной вокзал
+580,ID 109647893,homeowner,https://novosibirsk.cian.ru/rent/flat/294739021/,Новосибирск,rent,flat,14,26,2,45.0,888,40000,0,Октябрьский,Гурьевская ,177/1,Золотая Нива
+581,Агент 54,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294892408/,Новосибирск,rent,flat,12,17,2,80.0,937,75000,0,Центральный, Сибревкома,7/1,Октябрьская
+582,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294846209/,Новосибирск,rent,flat,8,9,3,70.0,671,47000,0,Железнодорожный, Вокзальная магистраль,3,
+583,ID 460508,realtor,https://novosibirsk.cian.ru/rent/flat/294747219/,Новосибирск,rent,flat,2,7,4,125.0,1200,150000,0,Железнодорожный, Урицкого,6,Площадь Ленина
+584,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294752868/,Новосибирск,rent,flat,4,12,1,35.0,857,30000,0,Калининский,Танковая ,30,
+585,Владис Центральное,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294865706/,Новосибирск,rent,flat,2,14,2,50.0,600,30000,0,Дзержинский, Николая Островского,195/2,Березовая Роща
+586,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294944134/,Новосибирск,rent,flat,11,25,1,40.0,875,35000,0,Заельцовский,Северная ,13,
+587,ID 39482381,realtor,https://novosibirsk.cian.ru/rent/flat/294981402/,Новосибирск,rent,flat,5,5,2,80.0,1000,80000,0,Железнодорожный,Советская ,35,Площадь Ленина
+588,Этажи Новосибирск,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294889600/,Новосибирск,rent,flat,14,17,2,64.0,781,50000,0,Заельцовский,Овражная ,12,
+589,Сибриэлт,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/291447960/,Новосибирск,rent,flat,3,5,2,52.0,865,45000,0,Центральный, Чаплыгина,48,Площадь Ленина
+590,Сфера,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294944374/,Новосибирск,rent,flat,1,3,3,55.0,454,25000,0,Октябрьский, Гусинобродский Тракт,21,Золотая Нива
+591,1Е,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294984399/,Новосибирск,rent,flat,3,9,2,47.0,2127,100000,0,Заельцовский, Михаила Перевозчикова,4,Заельцовская
+592,ЖИЛФОНД,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294938253/,Новосибирск,rent,flat,2,18,2,46.0,695,32000,0,Ленинский,,8А,Студенческая
+593,НИАН,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294432682/,Новосибирск,rent,flat,6,9,2,44.0,795,35000,0,Железнодорожный,Железнодорожная ,2,Площадь Гарина-Михайловского
+594,ID 100650830,homeowner,https://novosibirsk.cian.ru/rent/flat/294942663/,Новосибирск,rent,flat,6,9,3,58.4,479,28000,0,Кировский, Зорге,74,
+595,Абордаж Аренда,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/284733371/,Новосибирск,rent,flat,10,14,2,42.0,952,40000,0,Заельцовский, Лобачевского,73,
+596,Интеграл,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294241182/,Новосибирск,rent,flat,15,24,1,41.0,731,30000,0,Кировский,Тульская ,76,Студенческая
+597,БК НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294638690/,Новосибирск,rent,flat,5,17,3,121.0,661,80000,0,Центральный, Романова,39,Площадь Ленина
+598,Юнион Трейд,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294605541/,Новосибирск,rent,flat,2,5,1,29.7,875,26000,0,Ленинский, Титова,15,
+599,Любовь Никитина,realtor,https://novosibirsk.cian.ru/rent/flat/290460094/,Новосибирск,rent,flat,10,11,4,100.0,400,40000,0,Центральный,Серебренниковская ,4/1,Октябрьская
+600,ID 344937,unknown,https://novosibirsk.cian.ru/rent/flat/294750634/,Новосибирск,rent,flat,7,27,3,91.0,758,69000,0,Октябрьский, Лескова,23,Октябрьская
+601,Сибирский центр недвижимости и права,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294157083/,Новосибирск,rent,flat,5,9,2,46.0,630,29000,0,Калининский, Кропоткина,130/1,Маршала Покрышкина
+602,Сергей Уртамов,realtor,https://novosibirsk.cian.ru/rent/flat/293112551/,Новосибирск,rent,flat,7,9,3,77.0,1037,79900,0,Октябрьский,Большевистская ,94,Речной вокзал
+603,Сергей Уртамов,realtor,https://novosibirsk.cian.ru/rent/flat/293114763/,Новосибирск,rent,flat,6,8,3,67.0,1192,79900,0,Октябрьский, Владимира Заровного,26,Речной вокзал
+604,Абордаж Аренда,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/291862039/,Новосибирск,rent,flat,1,5,4,62.0,967,60000,0,Кировский, Ватутина,65,Площадь Маркса
+605,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/289502045/,Новосибирск,rent,flat,6,12,2,75.0,1066,80000,0,Заельцовский,Охотская ,88/4,Заельцовская
+606,ID 71044698,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294978937/,Новосибирск,rent,flat,7,8,2,75.0,506,38000,0,Ленинский,переулок 3-й Крашенинникова,7,
+607,ID 102959761,homeowner,https://novosibirsk.cian.ru/rent/flat/293634223/,Новосибирск,rent,flat,3,12,1,40.0,1200,48000,0,Заельцовский, Кропоткина,116/1,Гагаринская
+608,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/294058399/,Новосибирск,rent,flat,10,20,2,60.0,833,50000,0,Железнодорожный,Красноярская ,107,Площадь Гарина-Михайловского
+609,ID 64338739,unknown,https://novosibirsk.cian.ru/rent/flat/294800107/,Новосибирск,rent,flat,4,12,1,35.0,800,28000,0,Калининский,Танковая ,30,Заельцовская
+610,ID 109840421,homeowner,https://novosibirsk.cian.ru/rent/flat/294958422/,Новосибирск,rent,flat,8,9,1,30.0,1066,32000,0,Октябрьский, Бориса Богаткова,206,Золотая Нива
+611,ID 460508,realtor,https://novosibirsk.cian.ru/rent/flat/294870257/,Новосибирск,rent,flat,5,8,3,80.0,1500,120000,0,Железнодорожный, Урицкого,6,Площадь Ленина
+612,ID 89208588,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293968169/,Новосибирск,rent,flat,14,24,2,63.0,793,50000,0,Центральный, Державина,47,Маршала Покрышкина
+613,Ольга Матвеева,realtor,https://novosibirsk.cian.ru/rent/flat/294709304/,Новосибирск,rent,flat,4,4,2,43.0,930,40000,0,Советский, Ученых,7,
+614,ID 44134325,unknown,https://novosibirsk.cian.ru/rent/flat/286655230/,Новосибирск,rent,flat,7,7,2,54.0,944,51000,0,Октябрьский,Большевистская ,37,Речной вокзал
+615,Кирилл Куделенко,realtor,https://novosibirsk.cian.ru/rent/flat/294647049/,Новосибирск,rent,flat,11,11,2,48.0,958,46000,0,Кировский, Покрышкина,1,
+616,ID 51650953,homeowner,https://novosibirsk.cian.ru/rent/flat/294487949/,Новосибирск,rent,flat,10,19,2,85.0,529,45000,0,Заельцовский, Дуси Ковальчук,238,Заельцовская
+617,Екатерина Александрова,realtor,https://novosibirsk.cian.ru/rent/flat/294753477/,Новосибирск,rent,flat,3,5,2,44.0,681,30000,0,Ленинский, Блюхера,4,
+618,ID 90052506,unknown,https://novosibirsk.cian.ru/rent/flat/292174086/,Новосибирск,rent,flat,8,17,1,64.0,625,40000,0,Центральный, Сибревкома,7/1,Октябрьская
+619,ID 90742073,homeowner,https://novosibirsk.cian.ru/rent/flat/292926573/,Новосибирск,rent,flat,5,9,2,64.0,593,38000,0,Заельцовский, Серебряные Ключи,8,Заельцовская
+620,Сергей  Санников,realtor,https://novosibirsk.cian.ru/rent/flat/294748853/,Новосибирск,rent,flat,5,17,2,50.0,1020,51000,0,Дзержинский, Николая Островского,195,Березовая Роща
+621,ID 92674625,unknown,https://novosibirsk.cian.ru/rent/flat/294893334/,Новосибирск,rent,flat,3,9,3,90.0,388,35000,0,Железнодорожный,Сибирская ,49,Красный Проспект
+622,ID 56606632,homeowner,https://novosibirsk.cian.ru/rent/flat/293351880/,Новосибирск,rent,flat,15,15,2,33.0,1969,65000,0,Октябрьский,Обская ,46/2,Речной вокзал
+623,ID 44563995,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294812422/,Новосибирск,rent,flat,8,9,3,72.1,624,45000,0,Ленинский, Титова,257/1,Площадь Маркса
+624,ID 77455663,unknown,https://novosibirsk.cian.ru/rent/flat/294931955/,Новосибирск,rent,flat,2,5,2,45.0,777,35000,0,Кировский,Новогодняя ,8,Площадь Маркса
+625,Аргумент,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/281448730/,Новосибирск,rent,flat,9,26,3,90.0,1222,110000,0,Железнодорожный, 1905 года,69,Красный Проспект
+626,БК НЕДВИЖИМОСТЬ,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/293420927/,Новосибирск,rent,flat,4,6,3,110.3,725,80000,0,Центральный, Крылова,4,Красный Проспект
+627,Валентина Кондратьева,realtor,https://novosibirsk.cian.ru/rent/flat/294590467/,Новосибирск,rent,flat,13,16,4,80.0,1125,90000,0,Железнодорожный,Коммунистическая ,10,Площадь Ленина
+628,Екатерина Решетова,realtor,https://novosibirsk.cian.ru/rent/flat/294902785/,Новосибирск,rent,flat,10,25,2,86.0,581,50000,0,Центральный, Державина,77,Березовая Роща
+629,ID 71706087,homeowner,https://novosibirsk.cian.ru/rent/flat/294943158/,Новосибирск,rent,flat,9,10,2,44.0,1295,57000,0,Заельцовский,Кубовая ,53,
+630,ID 71042902,real_estate_agent,https://novosibirsk.cian.ru/rent/flat/294191273/,Новосибирск,rent,flat,12,17,3,106.0,754,80000,0,Октябрьский, Кирова,44/2,Октябрьская
+631,ID 109812960,realtor,https://novosibirsk.cian.ru/rent/flat/294937818/,Новосибирск,rent,flat,4,11,2,98.0,306,30000,0,Ленинский,,42,Студенческая
+632,ID 109583949,homeowner,https://novosibirsk.cian.ru/rent/flat/294965223/,Новосибирск,rent,flat,14,18,2,55.0,818,45000,0,Октябрьский, Лескова,31,Октябрьская
+633,Валентина Ситникова,realtor,https://novosibirsk.cian.ru/rent/flat/294801057/,Новосибирск,rent,flat,2,10,2,72.0,416,30000,0,Кировский, Петухова,95,Студенческая
+634,ID 92253289,realtor,https://novosibirsk.cian.ru/rent/flat/294892256/,Новосибирск,rent,flat,7,10,3,100.0,450,45000,0,Ленинский,,63,
+635,ID 39482381,realtor,https://novosibirsk.cian.ru/rent/flat/294747394/,Новосибирск,rent,flat,15,18,3,92.0,706,65000,0,Ленинский,Стартовая ,1,Студенческая
+636,ID 71432150,homeowner,https://novosibirsk.cian.ru/rent/flat/290100426/,Новосибирск,rent,flat,5,9,3,94.0,904,85000,0,Центральный, Семьи Шамшиных,30,Площадь Ленина
