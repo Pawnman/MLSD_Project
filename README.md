@@ -1,6 +1,6 @@
 # MLSD_Project
 
-<h1>Smartphone Price Prediction using Machine Learning</h1>
+<h1>Rent Price Prediction using Machine Learning</h1>
 <p>Created by Maksim Peshkov</p>
 
 <p>Tech Stack:
